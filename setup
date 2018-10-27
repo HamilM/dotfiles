@@ -1,0 +1,69 @@
+#!/bin/bash
+
+function install_package {
+	PACMAN_INSTALL_FLAGS="-S --noconfirm"
+	pacman $PACMAN_INSTALL_FLAGS "$@"
+}
+
+
+# enable multilib for 32-bit support.
+# uncomment relevant line in /etc/pacman.conf and them run "pacman -Syu"
+
+###########################
+########## CODE ###########
+###########################
+install_package git python python-pip neovim
+ln -s /bin/nvim /bin/vim
+
+###########################
+####### ENVIRONMENT #######
+###########################
+install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# Setup as default shell
+chsh -s /bin/zsh
+
+pip install pywal
+wal -a 90
+
+if [[ -n $(lspci | grep -i nvidia) ]]; then
+	echo "Installing bumblebee + nvidia"
+	install_package bumblebee mesa xf86-video-nouveau nvidia-lts lib32-virtualgl lib32-nvidia-utils
+	gpasswd -a $(whoami) bumblebee
+	systemctl enable bumblebeed.service
+fi
+
+###########################
+####### NETWORKING ########
+###########################
+
+WIFI_INTERFACE_NAME="wlp2s0"
+
+# wpa_actiond - Automatically connect to Wi-Fi networks in range.
+install_package wpa_actiond
+
+# Start the wpa_actiond upon boot, and immediately.
+systemctl enable netctl-auto@wlp2s0.service
+systemctl start netctl-auto@wlp2s0.service
+
+###########################
+######### LOCALE ##########
+###########################
+
+# Generate XKB hebrew keyboard layout
+localectl set-x11-keymap us,il asus_laptop "" grp:alt_shift_toggle
+
+# Set current configuration to it as well
+setxkbmap -layout us,il -model asus_laptop -option 'grp:alt_shift_toggle'
+
+# This package fixes up some hebrew problems in terminals
+install_package ttf-dejavu 
+
+###########################
+######### SOUND ###########
+###########################
+
+install_package pulseaudio pulseaudio-alsa pamixer
+DEFAULT_VOLUME_LEVEL=20
+pamixer --set-volume $DEFAULT_VOLUME_LEVEL
+pamixer -u
