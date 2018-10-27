@@ -169,3 +169,4 @@ bar {
         status_command i3status
 }
 exec_always wal -i ~/.config/i3/wallpaper.png -a 90 -n; feh --bg-tile "$(<"${HOME}/.cache/wal/wal")"
+exec compton -b
