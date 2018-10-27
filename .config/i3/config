@@ -76,9 +76,9 @@ bindsym $mod+v split v
 bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
-bindsym $mod+s layout stacking
-bindsym $mod+w layout tabbed
-bindsym $mod+e layout toggle split
+#bindsym $mod+s layout stacking
+#bindsym $mod+w layout tabbed
+#bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -168,5 +168,12 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
+
+gaps inner 20
+gaps outer 10
+bindsym $mod+s gaps inner all plus 5
+bindsym $mod+Shift+s gaps inner all minus 5
+
+
 exec_always wal -i ~/.config/i3/wallpaper.png -a 90 -n; feh --bg-tile "$(<"${HOME}/.cache/wal/wal")"
 exec compton -b
