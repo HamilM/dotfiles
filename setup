@@ -6,6 +6,12 @@ function install_package {
 }
 
 
+# First - connect to wifi
+WIFI_INTERFACE_NAME=$(find /sys/class/net -maxdepth 2 -follow -name "wireless" | cut -d/ -f5 )
+if [[ -n $WIFI_INTERFACE_NAME ]]; then
+	wifi-menu -o $WIFI_INTERFACE_NAME
+fi
+
 # enable multilib for 32-bit support.
 # uncomment relevant line in /etc/pacman.conf and them run "pacman -Syu"
 
@@ -18,7 +24,7 @@ ln -s /bin/nvim /bin/vim
 ###########################
 ####### ENVIRONMENT #######
 ###########################
-install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick
+install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick feh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 # Setup as default shell
 chsh -s /bin/zsh
