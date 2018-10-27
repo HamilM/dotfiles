@@ -97,3 +97,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 wal -n -i ~/.config/i3/wallpaper.png -a 90 -q
+neofetch
