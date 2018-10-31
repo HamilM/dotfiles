@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/matt/.oh-my-zsh"
+export ZSH="/home/matt/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -96,5 +96,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-wal -n -i ~/.config/i3/wallpaper.png -a 90 -q
+wal -i '~/.config/i3/wallpaper.png' -q -a 90
 neofetch
+
+
+alias vim=nvim
+cat ~/.cache/wal/sequences

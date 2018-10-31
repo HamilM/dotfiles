@@ -9,6 +9,7 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
+
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -175,5 +176,8 @@ bindsym $mod+s gaps inner all plus 5
 bindsym $mod+Shift+s gaps inner all minus 5
 
 
-exec_always wal -i ~/.config/i3/wallpaper.png -a 90 -n; feh --bg-tile "$(<"${HOME}/.cache/wal/wal")"
+exec_always wal -i ~/.config/i3/wallpaper.png -a 90
 exec compton -b
+
+default_border none
+default_floating_border none
