@@ -73,3 +73,16 @@ install_package pulseaudio pulseaudio-alsa pamixer
 DEFAULT_VOLUME_LEVEL=20
 pamixer --set-volume $DEFAULT_VOLUME_LEVEL
 pamixer -u
+
+###########################
+######### FINAL ###########
+###########################
+# After all is setup generate Xorg configuration and put it in the correct folder.
+# We generate this configuration because the configuration is not generated which caused
+# backlight support problems.
+Xorg :2 -configure
+if [ ! -f /root/xorg.conf.new ]; then
+	echo "[ERROR]	Failed to configure Xorg (Xorg :2 -configure)."
+else
+	cp /root/xorg.conf.new /etc/X11/xorg.conf.d/20-xorg-generated.conf
+fi
