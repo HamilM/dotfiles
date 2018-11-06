@@ -185,7 +185,7 @@ bindsym $mod+s gaps inner all plus 5
 bindsym $mod+Shift+s gaps inner all minus 5
 
 
-exec_always wal -i ~/.config/i3/wallpaper.png -a 90
+exec_always wal -i ~/.config/i3/wallpaper.png -a 60
 exec compton -b
 
 default_border none

@@ -96,7 +96,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-wal -i '~/.config/i3/wallpaper.png' -q -a 90
 neofetch
 
 
