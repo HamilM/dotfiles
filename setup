@@ -88,6 +88,14 @@ pamixer --set-volume $DEFAULT_VOLUME_LEVEL
 pamixer -u
 
 ###########################
+########## APPS ###########
+###########################
+
+# evince - PDF viewer.
+# retext - MD editor
+install_package evince retext
+
+###########################
 ######### FINAL ###########
 ###########################
 # After all is setup generate Xorg configuration and put it in the correct folder.
