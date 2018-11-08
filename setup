@@ -91,12 +91,25 @@ pamixer --set-volume $DEFAULT_VOLUME_LEVEL
 pamixer -u
 
 ###########################
+######### TIME ###########
+###########################
+
+install_package ntp
+
+# Enable ntp services for auto-correcting time
+timedatectl set-ntp true
+timedatectl set-timezone $(curl https://ipapi.co/timezone)
+
+###########################
 ########## APPS ###########
 ###########################
 
 # evince - PDF viewer.
 # retext - MD editor
-install_package evince retext
+# qutebrowser - Keyboard oriented browser
+install_package evince retext qutebrowser
+
+# translate shell - translate words in the shell
 
 ###########################
 ######### FINAL ###########
@@ -110,3 +123,4 @@ if [ ! -f /root/xorg.conf.new ]; then
 else
 	cp /root/xorg.conf.new /etc/X11/xorg.conf.d/20-xorg-generated.conf
 fi
+
