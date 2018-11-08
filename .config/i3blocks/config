@@ -27,7 +27,7 @@
 # Change $SCRIPT_DIR to the location of your scripts!
 command=$SCRIPT_DIR/$BLOCK_NAME
 separator_block_width=15
-markup=none
+markup=pango
 
 # Volume indicator
 #
@@ -52,8 +52,9 @@ signal=1
 #
 # The type defaults to "mem" if the instance is not specified.
 [memory]
+command=$SCRIPT_DIR/memory/memory
 label=MEM
-separator=false
+separator=true
 interval=30
 
 [memory]
@@ -87,12 +88,17 @@ command=$SCRIPT_DIR/wifi/wifi
 label=WiFi:
 #INTERFACE=wlp2s0
 interval=10
-separator=false
+separator=true
 
 [bandwidth]
-#INTERFACE=eth0
-interval=5
-
+command=$SCRIPT_DIR/bandwidth2/bandwidth2
+interval=persist
+markup=pango
+label=
+#warn_rx=307200
+#warn_tx=30720
+#CRIT_RX=512000
+#CRIT_TX=51200
 # CPU usage
 #
 # The script may be called with -w and -c switches to specify thresholds,
@@ -104,7 +110,7 @@ interval=2
 min_width=CPU 100.00%
 #T_WARN=50
 #T_CRIT=80
-#separator=false
+separator=true
 
 [load_average]
 label=LOAD
@@ -115,9 +121,33 @@ interval=10
 # The battery instance defaults to 0.
 [battery]
 #label=BAT
-command=${SCRIPT_DIR}/battery/battery
-label=⚡
-interval=30
+#command=${SCRIPT_DIR}/battery/battery
+#label=⚡
+#interval=30
+
+#[battery2]
+#command=$SCRIPT_DIR/battery2/battery2
+#markup=pango
+#interval=30
+
+[batterybar]
+command=$SCRIPT_DIR/batterybar/batterybar
+label=bat:
+interval=5
+markup=pango
+min_width=bat: ■■■■■
+# Discharging colors low to high
+#C1=#FF0027
+#C2=#FF3B05
+#C3=#FFB923
+#C4=#FFD000
+#C5=#E4FF00
+#C6=#ADFF00
+#C7=#6DFF00
+#C8=#10BA00
+#CHARGING_COLOR=#00AFE3
+#FULL_COLOR=#FFFFFF
+#AC_COLOR=#535353
 
 # Date Time
 #

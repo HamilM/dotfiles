@@ -45,9 +45,13 @@ if [[ -n $(lspci | grep -i nvidia) ]]; then
 fi
 
 # setting up i3blocks sample scripts (is this really needed?)
+pushd .
 git clone https://github.com/vivien/i3blocks-contrib ~/.config/i3blocks
 cd !$
 cp config.example config
+cd bandwidth2
+make
+popd
 
 # i3blocks dependecies
 install_package acpi sysstat alsa-utils ttf-font-awesome otf-font-awesome
