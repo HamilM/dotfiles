@@ -24,10 +24,9 @@ ln -s /bin/nvim /bin/vim
 ###########################
 ####### ENVIRONMENT #######
 ###########################
-install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick feh neofetch ntp i3-gaps i3blocks rofi
+install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick feh neofetch i3-gaps i3blocks rofi 
 
-# Enable ntp services for auto-correcting time
-timedatectl set-ntp true
+
 
 # Install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
