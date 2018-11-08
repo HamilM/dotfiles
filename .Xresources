@@ -12,4 +12,10 @@ rofi.color-urgent: #cc241d, #282828, #cc241d, #fb4934, #282828
 rofi.combi-modi: window,run
 rofi.show: combi
 rofi.modi: combi
-
+rofi.width: 50
+rofi.lines: 30
+rofi.location: 0
+rofi.show-icons: true
+rofi.sidebar-mode: true
+rofi.fullscreen: false
+rofi.combi-hide-mode-prefix: false
