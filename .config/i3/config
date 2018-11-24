@@ -148,23 +148,28 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 3
 bindsym XF86MonBrightnessDown exec xbacklight -dec 3
 
 # resize window (you can also use the mouse for that)
-mode "resize" {
+mode "resize/move" {
         # These bindings trigger as soon as you enter the resize mode
 
         # Pressing left will shrink the window’s width.
         # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
+        # Pressing up will shrink thk window’s height.
         # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 10 px or 10 ppt
-        bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
+        bindsym h resize shrink width 12 px or 12 ppt
+        bindsym j resize grow height 12 px or 12 ppt
+        bindsym k resize shrink height 12 px or 12 ppt
+        bindsym l resize grow width 12 px or 12 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
+        bindsym Left resize shrink width 12 px or 12 ppt
+        bindsym Down resize grow height 12 px or 12 ppt
+        bindsym Up resize shrink height 12 px or 12 ppt
+        bindsym Right resize grow width 12 px or 12 ppt
+
+	bindsym Shift+h move left 12 px
+	bindsym Shift+j move down 12 px
+	bindsym Shift+k move up 12 px
+	bindsym Shift+l move right 12 px
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
@@ -172,7 +177,7 @@ mode "resize" {
         bindsym $mod+r mode "default"
 }
 
-bindsym $mod+r mode "resize"
+bindsym $mod+r mode "resize/move"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
@@ -187,8 +192,15 @@ bindsym $mod+s gaps inner all plus 5
 bindsym $mod+Shift+s gaps inner all minus 5
 
 
-exec_always wal -i ~/.config/i3/wallpaper.png -a 60
+exec_always wal -i ~/.config/i3/wallpaper.jpg -a 80
 exec compton -b
 
 default_border none
 default_floating_border none
+
+popup_during_fullscreen smart
+
+# Set screen energy timeout for 5 minutes
+exec xset dpms $((60*5))
+# enable redshift 
+exec redshift -P -b 0.9:0.2 -l gelclue2 -t 5400:2800
