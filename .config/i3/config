@@ -203,4 +203,4 @@ popup_during_fullscreen smart
 # Set screen energy timeout for 5 minutes
 exec xset dpms $((60*5))
 # enable redshift 
-exec redshift -P -b 0.9:0.2 -l gelclue2 -t 5400:2800
+exec redshift -P -b 0.9:0.2 -l geoclue2 -t 5400:2800
