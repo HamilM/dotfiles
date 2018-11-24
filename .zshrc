@@ -98,6 +98,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 neofetch
 
-
+export WALLPAPER_PATH=~/.config/i3/wallpaper.jpg
 alias vim=nvim
 cat ~/.cache/wal/sequences
