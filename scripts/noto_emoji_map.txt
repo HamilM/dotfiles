@@ -1,0 +1,2784 @@
+grinning face |1f600
+beaming face with smiling eyes |1f601
+face with tears of joy |1f602
+rolling on the floor laughing |1f923
+grinning face with big eyes |1f603
+grinning face with smiling eyes |1f604
+grinning face with sweat |1f605
+grinning squinting face |1f606
+winking face |1f609
+smiling face with smiling eyes |1f60a
+face savoring food |1f60b
+smiling face with sunglasses |1f60e
+smiling face with heart-eyes |1f60d
+face blowing a kiss |1f618
+smiling face with 3 hearts |1f970
+kissing face |1f617
+kissing face with smiling eyes |1f619
+kissing face with closed eyes |1f61a
+smiling face |263a
+slightly smiling face |1f642
+hugging face |1f917
+star-struck |1f929
+thinking face |1f914
+face with raised eyebrow |1f928
+neutral face |1f610
+expressionless face |1f611
+face without mouth |1f636
+face with rolling eyes |1f644
+smirking face |1f60f
+persevering face |1f623
+sad but relieved face |1f625
+face with open mouth |1f62e
+zipper-mouth face |1f910
+hushed face |1f62f
+sleepy face |1f62a
+tired face |1f62b
+sleeping face |1f634
+relieved face |1f60c
+face with tongue |1f61b
+winking face with tongue |1f61c
+squinting face with tongue |1f61d
+drooling face |1f924
+unamused face |1f612
+downcast face with sweat |1f613
+pensive face |1f614
+confused face |1f615
+upside-down face |1f643
+money-mouth face |1f911
+astonished face |1f632
+frowning face |2639
+slightly frowning face |1f641
+confounded face |1f616
+disappointed face |1f61e
+worried face |1f61f
+face with steam from nose |1f624
+crying face |1f622
+loudly crying face |1f62d
+frowning face with open mouth |1f626
+anguished face |1f627
+fearful face |1f628
+weary face |1f629
+exploding head |1f92f
+grimacing face |1f62c
+anxious face with sweat |1f630
+face screaming in fear |1f631
+hot face |1f975
+cold face |1f976
+flushed face |1f633
+zany face |1f92a
+dizzy face |1f635
+pouting face |1f621
+angry face |1f620
+face with symbols on mouth |1f92c
+face with medical mask |1f637
+face with thermometer |1f912
+face with head-bandage |1f915
+nauseated face |1f922
+face vomiting |1f92e
+sneezing face |1f927
+smiling face with halo |1f607
+cowboy hat face |1f920
+partying face |1f973
+woozy face |1f974
+pleading face |1f97a
+lying face |1f925
+shushing face |1f92b
+face with hand over mouth |1f92d
+face with monocle |1f9d0
+nerd face |1f913
+smiling face with horns |1f608
+angry face with horns |1f47f
+clown face |1f921
+ogre |1f479
+goblin |1f47a
+skull |1f480
+skull and crossbones |2620
+ghost |1f47b
+alien |1f47d
+alien monster |1f47e
+robot face |1f916
+pile of poo |1f4a9
+grinning cat face |1f63a
+grinning cat face with smiling eyes |1f638
+cat face with tears of joy |1f639
+smiling cat face with heart-eyes |1f63b
+cat face with wry smile |1f63c
+kissing cat face |1f63d
+weary cat face |1f640
+crying cat face |1f63f
+pouting cat face |1f63e
+see-no-evil monkey |1f648
+hear-no-evil monkey |1f649
+speak-no-evil monkey |1f64a
+baby |1f476
+baby: light skin tone |1f3fb
+baby: medium-light skin tone |1f3fc
+baby: medium skin tone |1f3fd
+baby: medium-dark skin tone |1f3fe
+baby: dark skin tone |1f3ff
+child |1f9d2
+child: light skin tone |1f3fb
+child: medium-light skin tone |1f3fc
+child: medium skin tone |1f3fd
+child: medium-dark skin tone |1f3fe
+child: dark skin tone |1f3ff
+boy |1f466
+boy: light skin tone |1f3fb
+boy: medium-light skin tone |1f3fc
+boy: medium skin tone |1f3fd
+boy: medium-dark skin tone |1f3fe
+boy: dark skin tone |1f3ff
+girl |1f467
+girl: light skin tone |1f3fb
+girl: medium-light skin tone |1f3fc
+girl: medium skin tone |1f3fd
+girl: medium-dark skin tone |1f3fe
+girl: dark skin tone |1f3ff
+adult |1f9d1
+adult: light skin tone |1f3fb
+adult: medium-light skin tone |1f3fc
+adult: medium skin tone |1f3fd
+adult: medium-dark skin tone |1f3fe
+adult: dark skin tone |1f3ff
+man |1f468
+man: light skin tone |1f3fb
+man: medium-light skin tone |1f3fc
+man: medium skin tone |1f3fd
+man: medium-dark skin tone |1f3fe
+man: dark skin tone |1f3ff
+woman |1f469
+woman: light skin tone |1f3fb
+woman: medium-light skin tone |1f3fc
+woman: medium skin tone |1f3fd
+woman: medium-dark skin tone |1f3fe
+woman: dark skin tone |1f3ff
+older adult |1f9d3
+older adult: light skin tone |1f3fb
+older adult: medium-light skin tone |1f3fc
+older adult: medium skin tone |1f3fd
+older adult: medium-dark skin tone |1f3fe
+older adult: dark skin tone |1f3ff
+old man |1f474
+old man: light skin tone |1f3fb
+old man: medium-light skin tone |1f3fc
+old man: medium skin tone |1f3fd
+old man: medium-dark skin tone |1f3fe
+old man: dark skin tone |1f3ff
+old woman |1f475
+old woman: light skin tone |1f3fb
+old woman: medium-light skin tone |1f3fc
+old woman: medium skin tone |1f3fd
+old woman: medium-dark skin tone |1f3fe
+old woman: dark skin tone |1f3ff
+man health worker |fe0f
+man health worker: light skin tone |fe0f
+man health worker: medium-light skin tone |fe0f
+man health worker: medium skin tone |fe0f
+man health worker: medium-dark skin tone |fe0f
+man health worker: dark skin tone |fe0f
+woman health worker |fe0f
+woman health worker: light skin tone |fe0f
+woman health worker: medium-light skin tone |fe0f
+woman health worker: medium skin tone |fe0f
+woman health worker: medium-dark skin tone |fe0f
+woman health worker: dark skin tone |fe0f
+man student |1f393
+man student: light skin tone |1f393
+man student: medium-light skin tone |1f393
+man student: medium skin tone |1f393
+man student: medium-dark skin tone |1f393
+man student: dark skin tone |1f393
+woman student |1f393
+woman student: light skin tone |1f393
+woman student: medium-light skin tone |1f393
+woman student: medium skin tone |1f393
+woman student: medium-dark skin tone |1f393
+woman student: dark skin tone |1f393
+man teacher |1f3eb
+man teacher: light skin tone |1f3eb
+man teacher: medium-light skin tone |1f3eb
+man teacher: medium skin tone |1f3eb
+man teacher: medium-dark skin tone |1f3eb
+man teacher: dark skin tone |1f3eb
+woman teacher |1f3eb
+woman teacher: light skin tone |1f3eb
+woman teacher: medium-light skin tone |1f3eb
+woman teacher: medium skin tone |1f3eb
+woman teacher: medium-dark skin tone |1f3eb
+woman teacher: dark skin tone |1f3eb
+man judge |fe0f
+man judge: light skin tone |fe0f
+man judge: medium-light skin tone |fe0f
+man judge: medium skin tone |fe0f
+man judge: medium-dark skin tone |fe0f
+man judge: dark skin tone |fe0f
+woman judge |fe0f
+woman judge: light skin tone |fe0f
+woman judge: medium-light skin tone |fe0f
+woman judge: medium skin tone |fe0f
+woman judge: medium-dark skin tone |fe0f
+woman judge: dark skin tone |fe0f
+man farmer |1f33e
+man farmer: light skin tone |1f33e
+man farmer: medium-light skin tone |1f33e
+man farmer: medium skin tone |1f33e
+man farmer: medium-dark skin tone |1f33e
+man farmer: dark skin tone |1f33e
+woman farmer |1f33e
+woman farmer: light skin tone |1f33e
+woman farmer: medium-light skin tone |1f33e
+woman farmer: medium skin tone |1f33e
+woman farmer: medium-dark skin tone |1f33e
+woman farmer: dark skin tone |1f33e
+man cook |1f373
+man cook: light skin tone |1f373
+man cook: medium-light skin tone |1f373
+man cook: medium skin tone |1f373
+man cook: medium-dark skin tone |1f373
+man cook: dark skin tone |1f373
+woman cook |1f373
+woman cook: light skin tone |1f373
+woman cook: medium-light skin tone |1f373
+woman cook: medium skin tone |1f373
+woman cook: medium-dark skin tone |1f373
+woman cook: dark skin tone |1f373
+man mechanic |1f527
+man mechanic: light skin tone |1f527
+man mechanic: medium-light skin tone |1f527
+man mechanic: medium skin tone |1f527
+man mechanic: medium-dark skin tone |1f527
+man mechanic: dark skin tone |1f527
+woman mechanic |1f527
+woman mechanic: light skin tone |1f527
+woman mechanic: medium-light skin tone |1f527
+woman mechanic: medium skin tone |1f527
+woman mechanic: medium-dark skin tone |1f527
+woman mechanic: dark skin tone |1f527
+man factory worker |1f3ed
+man factory worker: light skin tone |1f3ed
+man factory worker: medium-light skin tone |1f3ed
+man factory worker: medium skin tone |1f3ed
+man factory worker: medium-dark skin tone |1f3ed
+man factory worker: dark skin tone |1f3ed
+woman factory worker |1f3ed
+woman factory worker: light skin tone |1f3ed
+woman factory worker: medium-light skin tone |1f3ed
+woman factory worker: medium skin tone |1f3ed
+woman factory worker: medium-dark skin tone |1f3ed
+woman factory worker: dark skin tone |1f3ed
+man office worker |1f4bc
+man office worker: light skin tone |1f4bc
+man office worker: medium-light skin tone |1f4bc
+man office worker: medium skin tone |1f4bc
+man office worker: medium-dark skin tone |1f4bc
+man office worker: dark skin tone |1f4bc
+woman office worker |1f4bc
+woman office worker: light skin tone |1f4bc
+woman office worker: medium-light skin tone |1f4bc
+woman office worker: medium skin tone |1f4bc
+woman office worker: medium-dark skin tone |1f4bc
+woman office worker: dark skin tone |1f4bc
+man scientist |1f52c
+man scientist: light skin tone |1f52c
+man scientist: medium-light skin tone |1f52c
+man scientist: medium skin tone |1f52c
+man scientist: medium-dark skin tone |1f52c
+man scientist: dark skin tone |1f52c
+woman scientist |1f52c
+woman scientist: light skin tone |1f52c
+woman scientist: medium-light skin tone |1f52c
+woman scientist: medium skin tone |1f52c
+woman scientist: medium-dark skin tone |1f52c
+woman scientist: dark skin tone |1f52c
+man technologist |1f4bb
+man technologist: light skin tone |1f4bb
+man technologist: medium-light skin tone |1f4bb
+man technologist: medium skin tone |1f4bb
+man technologist: medium-dark skin tone |1f4bb
+man technologist: dark skin tone |1f4bb
+woman technologist |1f4bb
+woman technologist: light skin tone |1f4bb
+woman technologist: medium-light skin tone |1f4bb
+woman technologist: medium skin tone |1f4bb
+woman technologist: medium-dark skin tone |1f4bb
+woman technologist: dark skin tone |1f4bb
+man singer |1f3a4
+man singer: light skin tone |1f3a4
+man singer: medium-light skin tone |1f3a4
+man singer: medium skin tone |1f3a4
+man singer: medium-dark skin tone |1f3a4
+man singer: dark skin tone |1f3a4
+woman singer |1f3a4
+woman singer: light skin tone |1f3a4
+woman singer: medium-light skin tone |1f3a4
+woman singer: medium skin tone |1f3a4
+woman singer: medium-dark skin tone |1f3a4
+woman singer: dark skin tone |1f3a4
+man artist |1f3a8
+man artist: light skin tone |1f3a8
+man artist: medium-light skin tone |1f3a8
+man artist: medium skin tone |1f3a8
+man artist: medium-dark skin tone |1f3a8
+man artist: dark skin tone |1f3a8
+woman artist |1f3a8
+woman artist: light skin tone |1f3a8
+woman artist: medium-light skin tone |1f3a8
+woman artist: medium skin tone |1f3a8
+woman artist: medium-dark skin tone |1f3a8
+woman artist: dark skin tone |1f3a8
+man pilot |fe0f
+man pilot: light skin tone |fe0f
+man pilot: medium-light skin tone |fe0f
+man pilot: medium skin tone |fe0f
+man pilot: medium-dark skin tone |fe0f
+man pilot: dark skin tone |fe0f
+woman pilot |fe0f
+woman pilot: light skin tone |fe0f
+woman pilot: medium-light skin tone |fe0f
+woman pilot: medium skin tone |fe0f
+woman pilot: medium-dark skin tone |fe0f
+woman pilot: dark skin tone |fe0f
+man astronaut |1f680
+man astronaut: light skin tone |1f680
+man astronaut: medium-light skin tone |1f680
+man astronaut: medium skin tone |1f680
+man astronaut: medium-dark skin tone |1f680
+man astronaut: dark skin tone |1f680
+woman astronaut |1f680
+woman astronaut: light skin tone |1f680
+woman astronaut: medium-light skin tone |1f680
+woman astronaut: medium skin tone |1f680
+woman astronaut: medium-dark skin tone |1f680
+woman astronaut: dark skin tone |1f680
+man firefighter |1f692
+man firefighter: light skin tone |1f692
+man firefighter: medium-light skin tone |1f692
+man firefighter: medium skin tone |1f692
+man firefighter: medium-dark skin tone |1f692
+man firefighter: dark skin tone |1f692
+woman firefighter |1f692
+woman firefighter: light skin tone |1f692
+woman firefighter: medium-light skin tone |1f692
+woman firefighter: medium skin tone |1f692
+woman firefighter: medium-dark skin tone |1f692
+woman firefighter: dark skin tone |1f692
+police officer |1f46e
+police officer: light skin tone |1f3fb
+police officer: medium-light skin tone |1f3fc
+police officer: medium skin tone |1f3fd
+police officer: medium-dark skin tone |1f3fe
+police officer: dark skin tone |1f3ff
+man police officer |fe0f
+man police officer: light skin tone |fe0f
+man police officer: medium-light skin tone |fe0f
+man police officer: medium skin tone |fe0f
+man police officer: medium-dark skin tone |fe0f
+man police officer: dark skin tone |fe0f
+woman police officer |fe0f
+woman police officer: light skin tone |fe0f
+woman police officer: medium-light skin tone |fe0f
+woman police officer: medium skin tone |fe0f
+woman police officer: medium-dark skin tone |fe0f
+woman police officer: dark skin tone |fe0f
+detective |1f575
+detective: light skin tone |1f3fb
+detective: medium-light skin tone |1f3fc
+detective: medium skin tone |1f3fd
+detective: medium-dark skin tone |1f3fe
+detective: dark skin tone |1f3ff
+man detective |fe0f
+man detective: light skin tone |fe0f
+man detective: medium-light skin tone |fe0f
+man detective: medium skin tone |fe0f
+man detective: medium-dark skin tone |fe0f
+man detective: dark skin tone |fe0f
+woman detective |fe0f
+woman detective: light skin tone |fe0f
+woman detective: medium-light skin tone |fe0f
+woman detective: medium skin tone |fe0f
+woman detective: medium-dark skin tone |fe0f
+woman detective: dark skin tone |fe0f
+guard |1f482
+guard: light skin tone |1f3fb
+guard: medium-light skin tone |1f3fc
+guard: medium skin tone |1f3fd
+guard: medium-dark skin tone |1f3fe
+guard: dark skin tone |1f3ff
+man guard |fe0f
+man guard: light skin tone |fe0f
+man guard: medium-light skin tone |fe0f
+man guard: medium skin tone |fe0f
+man guard: medium-dark skin tone |fe0f
+man guard: dark skin tone |fe0f
+woman guard |fe0f
+woman guard: light skin tone |fe0f
+woman guard: medium-light skin tone |fe0f
+woman guard: medium skin tone |fe0f
+woman guard: medium-dark skin tone |fe0f
+woman guard: dark skin tone |fe0f
+construction worker |1f477
+construction worker: light skin tone |1f3fb
+construction worker: medium-light skin tone |1f3fc
+construction worker: medium skin tone |1f3fd
+construction worker: medium-dark skin tone |1f3fe
+construction worker: dark skin tone |1f3ff
+man construction worker |fe0f
+man construction worker: light skin tone |fe0f
+man construction worker: medium-light skin tone |fe0f
+man construction worker: medium skin tone |fe0f
+man construction worker: medium-dark skin tone |fe0f
+man construction worker: dark skin tone |fe0f
+woman construction worker |fe0f
+woman construction worker: light skin tone |fe0f
+woman construction worker: medium-light skin tone |fe0f
+woman construction worker: medium skin tone |fe0f
+woman construction worker: medium-dark skin tone |fe0f
+woman construction worker: dark skin tone |fe0f
+prince |1f934
+prince: light skin tone |1f3fb
+prince: medium-light skin tone |1f3fc
+prince: medium skin tone |1f3fd
+prince: medium-dark skin tone |1f3fe
+prince: dark skin tone |1f3ff
+princess |1f478
+princess: light skin tone |1f3fb
+princess: medium-light skin tone |1f3fc
+princess: medium skin tone |1f3fd
+princess: medium-dark skin tone |1f3fe
+princess: dark skin tone |1f3ff
+person wearing turban |1f473
+person wearing turban: light skin tone |1f3fb
+person wearing turban: medium-light skin tone |1f3fc
+person wearing turban: medium skin tone |1f3fd
+person wearing turban: medium-dark skin tone |1f3fe
+person wearing turban: dark skin tone |1f3ff
+man wearing turban |fe0f
+man wearing turban: light skin tone |fe0f
+man wearing turban: medium-light skin tone |fe0f
+man wearing turban: medium skin tone |fe0f
+man wearing turban: medium-dark skin tone |fe0f
+man wearing turban: dark skin tone |fe0f
+woman wearing turban |fe0f
+woman wearing turban: light skin tone |fe0f
+woman wearing turban: medium-light skin tone |fe0f
+woman wearing turban: medium skin tone |fe0f
+woman wearing turban: medium-dark skin tone |fe0f
+woman wearing turban: dark skin tone |fe0f
+man with Chinese cap |1f472
+man with Chinese cap: light skin tone |1f3fb
+man with Chinese cap: medium-light skin tone |1f3fc
+man with Chinese cap: medium skin tone |1f3fd
+man with Chinese cap: medium-dark skin tone |1f3fe
+man with Chinese cap: dark skin tone |1f3ff
+woman with headscarf |1f9d5
+woman with headscarf: light skin tone |1f3fb
+woman with headscarf: medium-light skin tone |1f3fc
+woman with headscarf: medium skin tone |1f3fd
+woman with headscarf: medium-dark skin tone |1f3fe
+woman with headscarf: dark skin tone |1f3ff
+bearded person |1f9d4
+bearded person: light skin tone |1f3fb
+bearded person: medium-light skin tone |1f3fc
+bearded person: medium skin tone |1f3fd
+bearded person: medium-dark skin tone |1f3fe
+bearded person: dark skin tone |1f3ff
+blond-haired person |1f471
+blond-haired person: light skin tone |1f3fb
+blond-haired person: medium-light skin tone |1f3fc
+blond-haired person: medium skin tone |1f3fd
+blond-haired person: medium-dark skin tone |1f3fe
+blond-haired person: dark skin tone |1f3ff
+blond-haired man |fe0f
+blond-haired man: light skin tone |fe0f
+blond-haired man: medium-light skin tone |fe0f
+blond-haired man: medium skin tone |fe0f
+blond-haired man: medium-dark skin tone |fe0f
+blond-haired man: dark skin tone |fe0f
+blond-haired woman |fe0f
+blond-haired woman: light skin tone |fe0f
+blond-haired woman: medium-light skin tone |fe0f
+blond-haired woman: medium skin tone |fe0f
+blond-haired woman: medium-dark skin tone |fe0f
+blond-haired woman: dark skin tone |fe0f
+man, red haired |1f9b0
+man, red haired: light skin tone |1f9b0
+man, red haired: medium-light skin tone |1f9b0
+man, red haired: medium skin tone |1f9b0
+man, red haired: medium-dark skin tone |1f9b0
+man, red haired: dark skin tone |1f9b0
+woman, red haired |1f9b0
+woman, red haired: light skin tone |1f9b0
+woman, red haired: medium-light skin tone |1f9b0
+woman, red haired: medium skin tone |1f9b0
+woman, red haired: medium-dark skin tone |1f9b0
+woman, red haired: dark skin tone |1f9b0
+man, curly haired |1f9b1
+man, curly haired: light skin tone |1f9b1
+man, curly haired: medium-light skin tone |1f9b1
+man, curly haired: medium skin tone |1f9b1
+man, curly haired: medium-dark skin tone |1f9b1
+man, curly haired: dark skin tone |1f9b1
+woman, curly haired |1f9b1
+woman, curly haired: light skin tone |1f9b1
+woman, curly haired: medium-light skin tone |1f9b1
+woman, curly haired: medium skin tone |1f9b1
+woman, curly haired: medium-dark skin tone |1f9b1
+woman, curly haired: dark skin tone |1f9b1
+man, bald |1f9b2
+man, bald: light skin tone |1f9b2
+man, bald: medium-light skin tone |1f9b2
+man, bald: medium skin tone |1f9b2
+man, bald: medium-dark skin tone |1f9b2
+man, bald: dark skin tone |1f9b2
+woman, bald |1f9b2
+woman, bald: light skin tone |1f9b2
+woman, bald: medium-light skin tone |1f9b2
+woman, bald: medium skin tone |1f9b2
+woman, bald: medium-dark skin tone |1f9b2
+woman, bald: dark skin tone |1f9b2
+man, white haired |1f9b3
+man, white haired: light skin tone |1f9b3
+man, white haired: medium-light skin tone |1f9b3
+man, white haired: medium skin tone |1f9b3
+man, white haired: medium-dark skin tone |1f9b3
+man, white haired: dark skin tone |1f9b3
+woman, white haired |1f9b3
+woman, white haired: light skin tone |1f9b3
+woman, white haired: medium-light skin tone |1f9b3
+woman, white haired: medium skin tone |1f9b3
+woman, white haired: medium-dark skin tone |1f9b3
+woman, white haired: dark skin tone |1f9b3
+man in tuxedo |1f935
+man in tuxedo: light skin tone |1f3fb
+man in tuxedo: medium-light skin tone |1f3fc
+man in tuxedo: medium skin tone |1f3fd
+man in tuxedo: medium-dark skin tone |1f3fe
+man in tuxedo: dark skin tone |1f3ff
+bride with veil |1f470
+bride with veil: light skin tone |1f3fb
+bride with veil: medium-light skin tone |1f3fc
+bride with veil: medium skin tone |1f3fd
+bride with veil: medium-dark skin tone |1f3fe
+bride with veil: dark skin tone |1f3ff
+pregnant woman |1f930
+pregnant woman: light skin tone |1f3fb
+pregnant woman: medium-light skin tone |1f3fc
+pregnant woman: medium skin tone |1f3fd
+pregnant woman: medium-dark skin tone |1f3fe
+pregnant woman: dark skin tone |1f3ff
+breast-feeding |1f931
+breast-feeding: light skin tone |1f3fb
+breast-feeding: medium-light skin tone |1f3fc
+breast-feeding: medium skin tone |1f3fd
+breast-feeding: medium-dark skin tone |1f3fe
+breast-feeding: dark skin tone |1f3ff
+baby angel |1f47c
+baby angel: light skin tone |1f3fb
+baby angel: medium-light skin tone |1f3fc
+baby angel: medium skin tone |1f3fd
+baby angel: medium-dark skin tone |1f3fe
+baby angel: dark skin tone |1f3ff
+Santa Claus |1f385
+Santa Claus: light skin tone |1f3fb
+Santa Claus: medium-light skin tone |1f3fc
+Santa Claus: medium skin tone |1f3fd
+Santa Claus: medium-dark skin tone |1f3fe
+Santa Claus: dark skin tone |1f3ff
+Mrs. Claus |1f936
+Mrs. Claus: light skin tone |1f3fb
+Mrs. Claus: medium-light skin tone |1f3fc
+Mrs. Claus: medium skin tone |1f3fd
+Mrs. Claus: medium-dark skin tone |1f3fe
+Mrs. Claus: dark skin tone |1f3ff
+superhero |1f9b8
+superhero: light skin tone |1f3fb
+superhero: medium-light skin tone |1f3fc
+superhero: medium skin tone |1f3fd
+superhero: medium-dark skin tone |1f3fe
+superhero: dark skin tone |1f3ff
+woman superhero |fe0f
+woman superhero: light skin tone |fe0f
+woman superhero: medium-light skin tone |fe0f
+woman superhero: medium skin tone |fe0f
+woman superhero: medium-dark skin tone |fe0f
+woman superhero: dark skin tone |fe0f
+man superhero |fe0f
+man superhero: light skin tone |fe0f
+man superhero: medium-light skin tone |fe0f
+man superhero: medium skin tone |fe0f
+man superhero: medium-dark skin tone |fe0f
+man superhero: dark skin tone |fe0f
+supervillain |1f9b9
+supervillain: light skin tone |1f3fb
+supervillain: medium-light skin tone |1f3fc
+supervillain: medium skin tone |1f3fd
+supervillain: medium-dark skin tone |1f3fe
+supervillain: dark skin tone |1f3ff
+woman supervillain |fe0f
+woman supervillain: light skin tone |fe0f
+woman supervillain: medium-light skin tone |fe0f
+woman supervillain: medium skin tone |fe0f
+woman supervillain: medium-dark skin tone |fe0f
+woman supervillain: dark skin tone |fe0f
+man supervillain |fe0f
+man supervillain: light skin tone |fe0f
+man supervillain: medium-light skin tone |fe0f
+man supervillain: medium skin tone |fe0f
+man supervillain: medium-dark skin tone |fe0f
+man supervillain: dark skin tone |fe0f
+mage |1f9d9
+mage: light skin tone |1f3fb
+mage: medium-light skin tone |1f3fc
+mage: medium skin tone |1f3fd
+mage: medium-dark skin tone |1f3fe
+mage: dark skin tone |1f3ff
+woman mage |fe0f
+woman mage: light skin tone |fe0f
+woman mage: medium-light skin tone |fe0f
+woman mage: medium skin tone |fe0f
+woman mage: medium-dark skin tone |fe0f
+woman mage: dark skin tone |fe0f
+man mage |fe0f
+man mage: light skin tone |fe0f
+man mage: medium-light skin tone |fe0f
+man mage: medium skin tone |fe0f
+man mage: medium-dark skin tone |fe0f
+man mage: dark skin tone |fe0f
+fairy |1f9da
+fairy: light skin tone |1f3fb
+fairy: medium-light skin tone |1f3fc
+fairy: medium skin tone |1f3fd
+fairy: medium-dark skin tone |1f3fe
+fairy: dark skin tone |1f3ff
+woman fairy |fe0f
+woman fairy: light skin tone |fe0f
+woman fairy: medium-light skin tone |fe0f
+woman fairy: medium skin tone |fe0f
+woman fairy: medium-dark skin tone |fe0f
+woman fairy: dark skin tone |fe0f
+man fairy |fe0f
+man fairy: light skin tone |fe0f
+man fairy: medium-light skin tone |fe0f
+man fairy: medium skin tone |fe0f
+man fairy: medium-dark skin tone |fe0f
+man fairy: dark skin tone |fe0f
+vampire |1f9db
+vampire: light skin tone |1f3fb
+vampire: medium-light skin tone |1f3fc
+vampire: medium skin tone |1f3fd
+vampire: medium-dark skin tone |1f3fe
+vampire: dark skin tone |1f3ff
+woman vampire |fe0f
+woman vampire: light skin tone |fe0f
+woman vampire: medium-light skin tone |fe0f
+woman vampire: medium skin tone |fe0f
+woman vampire: medium-dark skin tone |fe0f
+woman vampire: dark skin tone |fe0f
+man vampire |fe0f
+man vampire: light skin tone |fe0f
+man vampire: medium-light skin tone |fe0f
+man vampire: medium skin tone |fe0f
+man vampire: medium-dark skin tone |fe0f
+man vampire: dark skin tone |fe0f
+merperson |1f9dc
+merperson: light skin tone |1f3fb
+merperson: medium-light skin tone |1f3fc
+merperson: medium skin tone |1f3fd
+merperson: medium-dark skin tone |1f3fe
+merperson: dark skin tone |1f3ff
+mermaid |fe0f
+mermaid: light skin tone |fe0f
+mermaid: medium-light skin tone |fe0f
+mermaid: medium skin tone |fe0f
+mermaid: medium-dark skin tone |fe0f
+mermaid: dark skin tone |fe0f
+merman |fe0f
+merman: light skin tone |fe0f
+merman: medium-light skin tone |fe0f
+merman: medium skin tone |fe0f
+merman: medium-dark skin tone |fe0f
+merman: dark skin tone |fe0f
+elf |1f9dd
+elf: light skin tone |1f3fb
+elf: medium-light skin tone |1f3fc
+elf: medium skin tone |1f3fd
+elf: medium-dark skin tone |1f3fe
+elf: dark skin tone |1f3ff
+woman elf |fe0f
+woman elf: light skin tone |fe0f
+woman elf: medium-light skin tone |fe0f
+woman elf: medium skin tone |fe0f
+woman elf: medium-dark skin tone |fe0f
+woman elf: dark skin tone |fe0f
+man elf |fe0f
+man elf: light skin tone |fe0f
+man elf: medium-light skin tone |fe0f
+man elf: medium skin tone |fe0f
+man elf: medium-dark skin tone |fe0f
+man elf: dark skin tone |fe0f
+genie |1f9de
+woman genie |fe0f
+man genie |fe0f
+zombie |1f9df
+woman zombie |fe0f
+man zombie |fe0f
+person frowning |1f64d
+person frowning: light skin tone |1f3fb
+person frowning: medium-light skin tone |1f3fc
+person frowning: medium skin tone |1f3fd
+person frowning: medium-dark skin tone |1f3fe
+person frowning: dark skin tone |1f3ff
+man frowning |fe0f
+man frowning: light skin tone |fe0f
+man frowning: medium-light skin tone |fe0f
+man frowning: medium skin tone |fe0f
+man frowning: medium-dark skin tone |fe0f
+man frowning: dark skin tone |fe0f
+woman frowning |fe0f
+woman frowning: light skin tone |fe0f
+woman frowning: medium-light skin tone |fe0f
+woman frowning: medium skin tone |fe0f
+woman frowning: medium-dark skin tone |fe0f
+woman frowning: dark skin tone |fe0f
+person pouting |1f64e
+person pouting: light skin tone |1f3fb
+person pouting: medium-light skin tone |1f3fc
+person pouting: medium skin tone |1f3fd
+person pouting: medium-dark skin tone |1f3fe
+person pouting: dark skin tone |1f3ff
+man pouting |fe0f
+man pouting: light skin tone |fe0f
+man pouting: medium-light skin tone |fe0f
+man pouting: medium skin tone |fe0f
+man pouting: medium-dark skin tone |fe0f
+man pouting: dark skin tone |fe0f
+woman pouting |fe0f
+woman pouting: light skin tone |fe0f
+woman pouting: medium-light skin tone |fe0f
+woman pouting: medium skin tone |fe0f
+woman pouting: medium-dark skin tone |fe0f
+woman pouting: dark skin tone |fe0f
+person gesturing NO |1f645
+person gesturing NO: light skin tone |1f3fb
+person gesturing NO: medium-light skin tone |1f3fc
+person gesturing NO: medium skin tone |1f3fd
+person gesturing NO: medium-dark skin tone |1f3fe
+person gesturing NO: dark skin tone |1f3ff
+man gesturing NO |fe0f
+man gesturing NO: light skin tone |fe0f
+man gesturing NO: medium-light skin tone |fe0f
+man gesturing NO: medium skin tone |fe0f
+man gesturing NO: medium-dark skin tone |fe0f
+man gesturing NO: dark skin tone |fe0f
+woman gesturing NO |fe0f
+woman gesturing NO: light skin tone |fe0f
+woman gesturing NO: medium-light skin tone |fe0f
+woman gesturing NO: medium skin tone |fe0f
+woman gesturing NO: medium-dark skin tone |fe0f
+woman gesturing NO: dark skin tone |fe0f
+person gesturing OK |1f646
+person gesturing OK: light skin tone |1f3fb
+person gesturing OK: medium-light skin tone |1f3fc
+person gesturing OK: medium skin tone |1f3fd
+person gesturing OK: medium-dark skin tone |1f3fe
+person gesturing OK: dark skin tone |1f3ff
+man gesturing OK |fe0f
+man gesturing OK: light skin tone |fe0f
+man gesturing OK: medium-light skin tone |fe0f
+man gesturing OK: medium skin tone |fe0f
+man gesturing OK: medium-dark skin tone |fe0f
+man gesturing OK: dark skin tone |fe0f
+woman gesturing OK |fe0f
+woman gesturing OK: light skin tone |fe0f
+woman gesturing OK: medium-light skin tone |fe0f
+woman gesturing OK: medium skin tone |fe0f
+woman gesturing OK: medium-dark skin tone |fe0f
+woman gesturing OK: dark skin tone |fe0f
+person tipping hand |1f481
+person tipping hand: light skin tone |1f3fb
+person tipping hand: medium-light skin tone |1f3fc
+person tipping hand: medium skin tone |1f3fd
+person tipping hand: medium-dark skin tone |1f3fe
+person tipping hand: dark skin tone |1f3ff
+man tipping hand |fe0f
+man tipping hand: light skin tone |fe0f
+man tipping hand: medium-light skin tone |fe0f
+man tipping hand: medium skin tone |fe0f
+man tipping hand: medium-dark skin tone |fe0f
+man tipping hand: dark skin tone |fe0f
+woman tipping hand |fe0f
+woman tipping hand: light skin tone |fe0f
+woman tipping hand: medium-light skin tone |fe0f
+woman tipping hand: medium skin tone |fe0f
+woman tipping hand: medium-dark skin tone |fe0f
+woman tipping hand: dark skin tone |fe0f
+person raising hand |1f64b
+person raising hand: light skin tone |1f3fb
+person raising hand: medium-light skin tone |1f3fc
+person raising hand: medium skin tone |1f3fd
+person raising hand: medium-dark skin tone |1f3fe
+person raising hand: dark skin tone |1f3ff
+man raising hand |fe0f
+man raising hand: light skin tone |fe0f
+man raising hand: medium-light skin tone |fe0f
+man raising hand: medium skin tone |fe0f
+man raising hand: medium-dark skin tone |fe0f
+man raising hand: dark skin tone |fe0f
+woman raising hand |fe0f
+woman raising hand: light skin tone |fe0f
+woman raising hand: medium-light skin tone |fe0f
+woman raising hand: medium skin tone |fe0f
+woman raising hand: medium-dark skin tone |fe0f
+woman raising hand: dark skin tone |fe0f
+person bowing |1f647
+person bowing: light skin tone |1f3fb
+person bowing: medium-light skin tone |1f3fc
+person bowing: medium skin tone |1f3fd
+person bowing: medium-dark skin tone |1f3fe
+person bowing: dark skin tone |1f3ff
+man bowing |fe0f
+man bowing: light skin tone |fe0f
+man bowing: medium-light skin tone |fe0f
+man bowing: medium skin tone |fe0f
+man bowing: medium-dark skin tone |fe0f
+man bowing: dark skin tone |fe0f
+woman bowing |fe0f
+woman bowing: light skin tone |fe0f
+woman bowing: medium-light skin tone |fe0f
+woman bowing: medium skin tone |fe0f
+woman bowing: medium-dark skin tone |fe0f
+woman bowing: dark skin tone |fe0f
+person facepalming |1f926
+person facepalming: light skin tone |1f3fb
+person facepalming: medium-light skin tone |1f3fc
+person facepalming: medium skin tone |1f3fd
+person facepalming: medium-dark skin tone |1f3fe
+person facepalming: dark skin tone |1f3ff
+man facepalming |fe0f
+man facepalming: light skin tone |fe0f
+man facepalming: medium-light skin tone |fe0f
+man facepalming: medium skin tone |fe0f
+man facepalming: medium-dark skin tone |fe0f
+man facepalming: dark skin tone |fe0f
+woman facepalming |fe0f
+woman facepalming: light skin tone |fe0f
+woman facepalming: medium-light skin tone |fe0f
+woman facepalming: medium skin tone |fe0f
+woman facepalming: medium-dark skin tone |fe0f
+woman facepalming: dark skin tone |fe0f
+person shrugging |1f937
+person shrugging: light skin tone |1f3fb
+person shrugging: medium-light skin tone |1f3fc
+person shrugging: medium skin tone |1f3fd
+person shrugging: medium-dark skin tone |1f3fe
+person shrugging: dark skin tone |1f3ff
+man shrugging |fe0f
+man shrugging: light skin tone |fe0f
+man shrugging: medium-light skin tone |fe0f
+man shrugging: medium skin tone |fe0f
+man shrugging: medium-dark skin tone |fe0f
+man shrugging: dark skin tone |fe0f
+woman shrugging |fe0f
+woman shrugging: light skin tone |fe0f
+woman shrugging: medium-light skin tone |fe0f
+woman shrugging: medium skin tone |fe0f
+woman shrugging: medium-dark skin tone |fe0f
+woman shrugging: dark skin tone |fe0f
+person getting massage |1f486
+person getting massage: light skin tone |1f3fb
+person getting massage: medium-light skin tone |1f3fc
+person getting massage: medium skin tone |1f3fd
+person getting massage: medium-dark skin tone |1f3fe
+person getting massage: dark skin tone |1f3ff
+man getting massage |fe0f
+man getting massage: light skin tone |fe0f
+man getting massage: medium-light skin tone |fe0f
+man getting massage: medium skin tone |fe0f
+man getting massage: medium-dark skin tone |fe0f
+man getting massage: dark skin tone |fe0f
+woman getting massage |fe0f
+woman getting massage: light skin tone |fe0f
+woman getting massage: medium-light skin tone |fe0f
+woman getting massage: medium skin tone |fe0f
+woman getting massage: medium-dark skin tone |fe0f
+woman getting massage: dark skin tone |fe0f
+person getting haircut |1f487
+person getting haircut: light skin tone |1f3fb
+person getting haircut: medium-light skin tone |1f3fc
+person getting haircut: medium skin tone |1f3fd
+person getting haircut: medium-dark skin tone |1f3fe
+person getting haircut: dark skin tone |1f3ff
+man getting haircut |fe0f
+man getting haircut: light skin tone |fe0f
+man getting haircut: medium-light skin tone |fe0f
+man getting haircut: medium skin tone |fe0f
+man getting haircut: medium-dark skin tone |fe0f
+man getting haircut: dark skin tone |fe0f
+woman getting haircut |fe0f
+woman getting haircut: light skin tone |fe0f
+woman getting haircut: medium-light skin tone |fe0f
+woman getting haircut: medium skin tone |fe0f
+woman getting haircut: medium-dark skin tone |fe0f
+woman getting haircut: dark skin tone |fe0f
+person walking |1f6b6
+person walking: light skin tone |1f3fb
+person walking: medium-light skin tone |1f3fc
+person walking: medium skin tone |1f3fd
+person walking: medium-dark skin tone |1f3fe
+person walking: dark skin tone |1f3ff
+man walking |fe0f
+man walking: light skin tone |fe0f
+man walking: medium-light skin tone |fe0f
+man walking: medium skin tone |fe0f
+man walking: medium-dark skin tone |fe0f
+man walking: dark skin tone |fe0f
+woman walking |fe0f
+woman walking: light skin tone |fe0f
+woman walking: medium-light skin tone |fe0f
+woman walking: medium skin tone |fe0f
+woman walking: medium-dark skin tone |fe0f
+woman walking: dark skin tone |fe0f
+person running |1f3c3
+person running: light skin tone |1f3fb
+person running: medium-light skin tone |1f3fc
+person running: medium skin tone |1f3fd
+person running: medium-dark skin tone |1f3fe
+person running: dark skin tone |1f3ff
+man running |fe0f
+man running: light skin tone |fe0f
+man running: medium-light skin tone |fe0f
+man running: medium skin tone |fe0f
+man running: medium-dark skin tone |fe0f
+man running: dark skin tone |fe0f
+woman running |fe0f
+woman running: light skin tone |fe0f
+woman running: medium-light skin tone |fe0f
+woman running: medium skin tone |fe0f
+woman running: medium-dark skin tone |fe0f
+woman running: dark skin tone |fe0f
+woman dancing |1f483
+woman dancing: light skin tone |1f3fb
+woman dancing: medium-light skin tone |1f3fc
+woman dancing: medium skin tone |1f3fd
+woman dancing: medium-dark skin tone |1f3fe
+woman dancing: dark skin tone |1f3ff
+man dancing |1f57a
+man dancing: light skin tone |1f3fb
+man dancing: medium-light skin tone |1f3fc
+man dancing: medium skin tone |1f3fd
+man dancing: medium-dark skin tone |1f3fe
+man dancing: dark skin tone |1f3ff
+people with bunny ears |1f46f
+men with bunny ears |fe0f
+women with bunny ears |fe0f
+person in steamy room |1f9d6
+person in steamy room: light skin tone |1f3fb
+person in steamy room: medium-light skin tone |1f3fc
+person in steamy room: medium skin tone |1f3fd
+person in steamy room: medium-dark skin tone |1f3fe
+person in steamy room: dark skin tone |1f3ff
+woman in steamy room |fe0f
+woman in steamy room: light skin tone |fe0f
+woman in steamy room: medium-light skin tone |fe0f
+woman in steamy room: medium skin tone |fe0f
+woman in steamy room: medium-dark skin tone |fe0f
+woman in steamy room: dark skin tone |fe0f
+man in steamy room |fe0f
+man in steamy room: light skin tone |fe0f
+man in steamy room: medium-light skin tone |fe0f
+man in steamy room: medium skin tone |fe0f
+man in steamy room: medium-dark skin tone |fe0f
+man in steamy room: dark skin tone |fe0f
+person climbing |1f9d7
+person climbing: light skin tone |1f3fb
+person climbing: medium-light skin tone |1f3fc
+person climbing: medium skin tone |1f3fd
+person climbing: medium-dark skin tone |1f3fe
+person climbing: dark skin tone |1f3ff
+woman climbing |fe0f
+woman climbing: light skin tone |fe0f
+woman climbing: medium-light skin tone |fe0f
+woman climbing: medium skin tone |fe0f
+woman climbing: medium-dark skin tone |fe0f
+woman climbing: dark skin tone |fe0f
+man climbing |fe0f
+man climbing: light skin tone |fe0f
+man climbing: medium-light skin tone |fe0f
+man climbing: medium skin tone |fe0f
+man climbing: medium-dark skin tone |fe0f
+man climbing: dark skin tone |fe0f
+person in lotus position |1f9d8
+person in lotus position: light skin tone |1f3fb
+person in lotus position: medium-light skin tone |1f3fc
+person in lotus position: medium skin tone |1f3fd
+person in lotus position: medium-dark skin tone |1f3fe
+person in lotus position: dark skin tone |1f3ff
+woman in lotus position |fe0f
+woman in lotus position: light skin tone |fe0f
+woman in lotus position: medium-light skin tone |fe0f
+woman in lotus position: medium skin tone |fe0f
+woman in lotus position: medium-dark skin tone |fe0f
+woman in lotus position: dark skin tone |fe0f
+man in lotus position |fe0f
+man in lotus position: light skin tone |fe0f
+man in lotus position: medium-light skin tone |fe0f
+man in lotus position: medium skin tone |fe0f
+man in lotus position: medium-dark skin tone |fe0f
+man in lotus position: dark skin tone |fe0f
+person taking bath |1f6c0
+person taking bath: light skin tone |1f3fb
+person taking bath: medium-light skin tone |1f3fc
+person taking bath: medium skin tone |1f3fd
+person taking bath: medium-dark skin tone |1f3fe
+person taking bath: dark skin tone |1f3ff
+person in bed |1f6cc
+person in bed: light skin tone |1f3fb
+person in bed: medium-light skin tone |1f3fc
+person in bed: medium skin tone |1f3fd
+person in bed: medium-dark skin tone |1f3fe
+person in bed: dark skin tone |1f3ff
+man in suit levitating |1f574
+man in suit levitating: light skin tone |1f3fb
+man in suit levitating: medium-light skin tone |1f3fc
+man in suit levitating: medium skin tone |1f3fd
+man in suit levitating: medium-dark skin tone |1f3fe
+man in suit levitating: dark skin tone |1f3ff
+speaking head |1f5e3
+bust in silhouette |1f464
+busts in silhouette |1f465
+person fencing |1f93a
+horse racing |1f3c7
+horse racing: light skin tone |1f3fb
+horse racing: medium-light skin tone |1f3fc
+horse racing: medium skin tone |1f3fd
+horse racing: medium-dark skin tone |1f3fe
+horse racing: dark skin tone |1f3ff
+skier |26f7
+snowboarder |1f3c2
+snowboarder: light skin tone |1f3fb
+snowboarder: medium-light skin tone |1f3fc
+snowboarder: medium skin tone |1f3fd
+snowboarder: medium-dark skin tone |1f3fe
+snowboarder: dark skin tone |1f3ff
+person golfing |1f3cc
+person golfing: light skin tone |1f3fb
+person golfing: medium-light skin tone |1f3fc
+person golfing: medium skin tone |1f3fd
+person golfing: medium-dark skin tone |1f3fe
+person golfing: dark skin tone |1f3ff
+man golfing |fe0f
+man golfing: light skin tone |fe0f
+man golfing: medium-light skin tone |fe0f
+man golfing: medium skin tone |fe0f
+man golfing: medium-dark skin tone |fe0f
+man golfing: dark skin tone |fe0f
+woman golfing |fe0f
+woman golfing: light skin tone |fe0f
+woman golfing: medium-light skin tone |fe0f
+woman golfing: medium skin tone |fe0f
+woman golfing: medium-dark skin tone |fe0f
+woman golfing: dark skin tone |fe0f
+person surfing |1f3c4
+person surfing: light skin tone |1f3fb
+person surfing: medium-light skin tone |1f3fc
+person surfing: medium skin tone |1f3fd
+person surfing: medium-dark skin tone |1f3fe
+person surfing: dark skin tone |1f3ff
+man surfing |fe0f
+man surfing: light skin tone |fe0f
+man surfing: medium-light skin tone |fe0f
+man surfing: medium skin tone |fe0f
+man surfing: medium-dark skin tone |fe0f
+man surfing: dark skin tone |fe0f
+woman surfing |fe0f
+woman surfing: light skin tone |fe0f
+woman surfing: medium-light skin tone |fe0f
+woman surfing: medium skin tone |fe0f
+woman surfing: medium-dark skin tone |fe0f
+woman surfing: dark skin tone |fe0f
+person rowing boat |1f6a3
+person rowing boat: light skin tone |1f3fb
+person rowing boat: medium-light skin tone |1f3fc
+person rowing boat: medium skin tone |1f3fd
+person rowing boat: medium-dark skin tone |1f3fe
+person rowing boat: dark skin tone |1f3ff
+man rowing boat |fe0f
+man rowing boat: light skin tone |fe0f
+man rowing boat: medium-light skin tone |fe0f
+man rowing boat: medium skin tone |fe0f
+man rowing boat: medium-dark skin tone |fe0f
+man rowing boat: dark skin tone |fe0f
+woman rowing boat |fe0f
+woman rowing boat: light skin tone |fe0f
+woman rowing boat: medium-light skin tone |fe0f
+woman rowing boat: medium skin tone |fe0f
+woman rowing boat: medium-dark skin tone |fe0f
+woman rowing boat: dark skin tone |fe0f
+person swimming |1f3ca
+person swimming: light skin tone |1f3fb
+person swimming: medium-light skin tone |1f3fc
+person swimming: medium skin tone |1f3fd
+person swimming: medium-dark skin tone |1f3fe
+person swimming: dark skin tone |1f3ff
+man swimming |fe0f
+man swimming: light skin tone |fe0f
+man swimming: medium-light skin tone |fe0f
+man swimming: medium skin tone |fe0f
+man swimming: medium-dark skin tone |fe0f
+man swimming: dark skin tone |fe0f
+woman swimming |fe0f
+woman swimming: light skin tone |fe0f
+woman swimming: medium-light skin tone |fe0f
+woman swimming: medium skin tone |fe0f
+woman swimming: medium-dark skin tone |fe0f
+woman swimming: dark skin tone |fe0f
+person bouncing ball |26f9
+person bouncing ball: light skin tone |1f3fb
+person bouncing ball: medium-light skin tone |1f3fc
+person bouncing ball: medium skin tone |1f3fd
+person bouncing ball: medium-dark skin tone |1f3fe
+person bouncing ball: dark skin tone |1f3ff
+man bouncing ball |fe0f
+man bouncing ball: light skin tone |fe0f
+man bouncing ball: medium-light skin tone |fe0f
+man bouncing ball: medium skin tone |fe0f
+man bouncing ball: medium-dark skin tone |fe0f
+man bouncing ball: dark skin tone |fe0f
+woman bouncing ball |fe0f
+woman bouncing ball: light skin tone |fe0f
+woman bouncing ball: medium-light skin tone |fe0f
+woman bouncing ball: medium skin tone |fe0f
+woman bouncing ball: medium-dark skin tone |fe0f
+woman bouncing ball: dark skin tone |fe0f
+person lifting weights |1f3cb
+person lifting weights: light skin tone |1f3fb
+person lifting weights: medium-light skin tone |1f3fc
+person lifting weights: medium skin tone |1f3fd
+person lifting weights: medium-dark skin tone |1f3fe
+person lifting weights: dark skin tone |1f3ff
+man lifting weights |fe0f
+man lifting weights: light skin tone |fe0f
+man lifting weights: medium-light skin tone |fe0f
+man lifting weights: medium skin tone |fe0f
+man lifting weights: medium-dark skin tone |fe0f
+man lifting weights: dark skin tone |fe0f
+woman lifting weights |fe0f
+woman lifting weights: light skin tone |fe0f
+woman lifting weights: medium-light skin tone |fe0f
+woman lifting weights: medium skin tone |fe0f
+woman lifting weights: medium-dark skin tone |fe0f
+woman lifting weights: dark skin tone |fe0f
+person biking |1f6b4
+person biking: light skin tone |1f3fb
+person biking: medium-light skin tone |1f3fc
+person biking: medium skin tone |1f3fd
+person biking: medium-dark skin tone |1f3fe
+person biking: dark skin tone |1f3ff
+man biking |fe0f
+man biking: light skin tone |fe0f
+man biking: medium-light skin tone |fe0f
+man biking: medium skin tone |fe0f
+man biking: medium-dark skin tone |fe0f
+man biking: dark skin tone |fe0f
+woman biking |fe0f
+woman biking: light skin tone |fe0f
+woman biking: medium-light skin tone |fe0f
+woman biking: medium skin tone |fe0f
+woman biking: medium-dark skin tone |fe0f
+woman biking: dark skin tone |fe0f
+person mountain biking |1f6b5
+person mountain biking: light skin tone |1f3fb
+person mountain biking: medium-light skin tone |1f3fc
+person mountain biking: medium skin tone |1f3fd
+person mountain biking: medium-dark skin tone |1f3fe
+person mountain biking: dark skin tone |1f3ff
+man mountain biking |fe0f
+man mountain biking: light skin tone |fe0f
+man mountain biking: medium-light skin tone |fe0f
+man mountain biking: medium skin tone |fe0f
+man mountain biking: medium-dark skin tone |fe0f
+man mountain biking: dark skin tone |fe0f
+woman mountain biking |fe0f
+woman mountain biking: light skin tone |fe0f
+woman mountain biking: medium-light skin tone |fe0f
+woman mountain biking: medium skin tone |fe0f
+woman mountain biking: medium-dark skin tone |fe0f
+woman mountain biking: dark skin tone |fe0f
+racing car |1f3ce
+motorcycle |1f3cd
+person cartwheeling |1f938
+person cartwheeling: light skin tone |1f3fb
+person cartwheeling: medium-light skin tone |1f3fc
+person cartwheeling: medium skin tone |1f3fd
+person cartwheeling: medium-dark skin tone |1f3fe
+person cartwheeling: dark skin tone |1f3ff
+man cartwheeling |fe0f
+man cartwheeling: light skin tone |fe0f
+man cartwheeling: medium-light skin tone |fe0f
+man cartwheeling: medium skin tone |fe0f
+man cartwheeling: medium-dark skin tone |fe0f
+man cartwheeling: dark skin tone |fe0f
+woman cartwheeling |fe0f
+woman cartwheeling: light skin tone |fe0f
+woman cartwheeling: medium-light skin tone |fe0f
+woman cartwheeling: medium skin tone |fe0f
+woman cartwheeling: medium-dark skin tone |fe0f
+woman cartwheeling: dark skin tone |fe0f
+people wrestling |1f93c
+men wrestling |fe0f
+women wrestling |fe0f
+person playing water polo |1f93d
+person playing water polo: light skin tone |1f3fb
+person playing water polo: medium-light skin tone |1f3fc
+person playing water polo: medium skin tone |1f3fd
+person playing water polo: medium-dark skin tone |1f3fe
+person playing water polo: dark skin tone |1f3ff
+man playing water polo |fe0f
+man playing water polo: light skin tone |fe0f
+man playing water polo: medium-light skin tone |fe0f
+man playing water polo: medium skin tone |fe0f
+man playing water polo: medium-dark skin tone |fe0f
+man playing water polo: dark skin tone |fe0f
+woman playing water polo |fe0f
+woman playing water polo: light skin tone |fe0f
+woman playing water polo: medium-light skin tone |fe0f
+woman playing water polo: medium skin tone |fe0f
+woman playing water polo: medium-dark skin tone |fe0f
+woman playing water polo: dark skin tone |fe0f
+person playing handball |1f93e
+person playing handball: light skin tone |1f3fb
+person playing handball: medium-light skin tone |1f3fc
+person playing handball: medium skin tone |1f3fd
+person playing handball: medium-dark skin tone |1f3fe
+person playing handball: dark skin tone |1f3ff
+man playing handball |fe0f
+man playing handball: light skin tone |fe0f
+man playing handball: medium-light skin tone |fe0f
+man playing handball: medium skin tone |fe0f
+man playing handball: medium-dark skin tone |fe0f
+man playing handball: dark skin tone |fe0f
+woman playing handball |fe0f
+woman playing handball: light skin tone |fe0f
+woman playing handball: medium-light skin tone |fe0f
+woman playing handball: medium skin tone |fe0f
+woman playing handball: medium-dark skin tone |fe0f
+woman playing handball: dark skin tone |fe0f
+person juggling |1f939
+person juggling: light skin tone |1f3fb
+person juggling: medium-light skin tone |1f3fc
+person juggling: medium skin tone |1f3fd
+person juggling: medium-dark skin tone |1f3fe
+person juggling: dark skin tone |1f3ff
+man juggling |fe0f
+man juggling: light skin tone |fe0f
+man juggling: medium-light skin tone |fe0f
+man juggling: medium skin tone |fe0f
+man juggling: medium-dark skin tone |fe0f
+man juggling: dark skin tone |fe0f
+woman juggling |fe0f
+woman juggling: light skin tone |fe0f
+woman juggling: medium-light skin tone |fe0f
+woman juggling: medium skin tone |fe0f
+woman juggling: medium-dark skin tone |fe0f
+woman juggling: dark skin tone |fe0f
+man and woman holding hands |1f46b
+two men holding hands |1f46c
+two women holding hands |1f46d
+kiss |1f48f
+kiss: woman, man |1f468
+kiss: man, man |1f468
+kiss: woman, woman |1f469
+couple with heart |1f491
+couple with heart: woman, man |1f468
+couple with heart: man, man |1f468
+couple with heart: woman, woman |1f469
+family |1f46a
+family: man, woman, boy |1f466
+family: man, woman, girl |1f467
+family: man, woman, girl, boy |1f466
+family: man, woman, boy, boy |1f466
+family: man, woman, girl, girl |1f467
+family: man, man, boy |1f466
+family: man, man, girl |1f467
+family: man, man, girl, boy |1f466
+family: man, man, boy, boy |1f466
+family: man, man, girl, girl |1f467
+family: woman, woman, boy |1f466
+family: woman, woman, girl |1f467
+family: woman, woman, girl, boy |1f466
+family: woman, woman, boy, boy |1f466
+family: woman, woman, girl, girl |1f467
+family: man, boy |1f466
+family: man, boy, boy |1f466
+family: man, girl |1f467
+family: man, girl, boy |1f466
+family: man, girl, girl |1f467
+family: woman, boy |1f466
+family: woman, boy, boy |1f466
+family: woman, girl |1f467
+family: woman, girl, boy |1f466
+family: woman, girl, girl |1f467
+selfie |1f933
+selfie: light skin tone |1f3fb
+selfie: medium-light skin tone |1f3fc
+selfie: medium skin tone |1f3fd
+selfie: medium-dark skin tone |1f3fe
+selfie: dark skin tone |1f3ff
+flexed biceps |1f4aa
+flexed biceps: light skin tone |1f3fb
+flexed biceps: medium-light skin tone |1f3fc
+flexed biceps: medium skin tone |1f3fd
+flexed biceps: medium-dark skin tone |1f3fe
+flexed biceps: dark skin tone |1f3ff
+leg |1f9b5
+leg: light skin tone |1f3fb
+leg: medium-light skin tone |1f3fc
+leg: medium skin tone |1f3fd
+leg: medium-dark skin tone |1f3fe
+leg: dark skin tone |1f3ff
+foot |1f9b6
+foot: light skin tone |1f3fb
+foot: medium-light skin tone |1f3fc
+foot: medium skin tone |1f3fd
+foot: medium-dark skin tone |1f3fe
+foot: dark skin tone |1f3ff
+backhand index pointing left |1f448
+backhand index pointing left: light skin tone |1f3fb
+backhand index pointing left: medium-light skin tone |1f3fc
+backhand index pointing left: medium skin tone |1f3fd
+backhand index pointing left: medium-dark skin tone |1f3fe
+backhand index pointing left: dark skin tone |1f3ff
+backhand index pointing right |1f449
+backhand index pointing right: light skin tone |1f3fb
+backhand index pointing right: medium-light skin tone |1f3fc
+backhand index pointing right: medium skin tone |1f3fd
+backhand index pointing right: medium-dark skin tone |1f3fe
+backhand index pointing right: dark skin tone |1f3ff
+index pointing up |261d
+index pointing up: light skin tone |1f3fb
+index pointing up: medium-light skin tone |1f3fc
+index pointing up: medium skin tone |1f3fd
+index pointing up: medium-dark skin tone |1f3fe
+index pointing up: dark skin tone |1f3ff
+backhand index pointing up |1f446
+backhand index pointing up: light skin tone |1f3fb
+backhand index pointing up: medium-light skin tone |1f3fc
+backhand index pointing up: medium skin tone |1f3fd
+backhand index pointing up: medium-dark skin tone |1f3fe
+backhand index pointing up: dark skin tone |1f3ff
+middle finger |1f595
+middle finger: light skin tone |1f3fb
+middle finger: medium-light skin tone |1f3fc
+middle finger: medium skin tone |1f3fd
+middle finger: medium-dark skin tone |1f3fe
+middle finger: dark skin tone |1f3ff
+backhand index pointing down |1f447
+backhand index pointing down: light skin tone |1f3fb
+backhand index pointing down: medium-light skin tone |1f3fc
+backhand index pointing down: medium skin tone |1f3fd
+backhand index pointing down: medium-dark skin tone |1f3fe
+backhand index pointing down: dark skin tone |1f3ff
+victory hand |270c
+victory hand: light skin tone |1f3fb
+victory hand: medium-light skin tone |1f3fc
+victory hand: medium skin tone |1f3fd
+victory hand: medium-dark skin tone |1f3fe
+victory hand: dark skin tone |1f3ff
+crossed fingers |1f91e
+crossed fingers: light skin tone |1f3fb
+crossed fingers: medium-light skin tone |1f3fc
+crossed fingers: medium skin tone |1f3fd
+crossed fingers: medium-dark skin tone |1f3fe
+crossed fingers: dark skin tone |1f3ff
+vulcan salute |1f596
+vulcan salute: light skin tone |1f3fb
+vulcan salute: medium-light skin tone |1f3fc
+vulcan salute: medium skin tone |1f3fd
+vulcan salute: medium-dark skin tone |1f3fe
+vulcan salute: dark skin tone |1f3ff
+sign of the horns |1f918
+sign of the horns: light skin tone |1f3fb
+sign of the horns: medium-light skin tone |1f3fc
+sign of the horns: medium skin tone |1f3fd
+sign of the horns: medium-dark skin tone |1f3fe
+sign of the horns: dark skin tone |1f3ff
+call me hand |1f919
+call me hand: light skin tone |1f3fb
+call me hand: medium-light skin tone |1f3fc
+call me hand: medium skin tone |1f3fd
+call me hand: medium-dark skin tone |1f3fe
+call me hand: dark skin tone |1f3ff
+hand with fingers splayed |1f590
+hand with fingers splayed: light skin tone |1f3fb
+hand with fingers splayed: medium-light skin tone |1f3fc
+hand with fingers splayed: medium skin tone |1f3fd
+hand with fingers splayed: medium-dark skin tone |1f3fe
+hand with fingers splayed: dark skin tone |1f3ff
+raised hand |270b
+raised hand: light skin tone |1f3fb
+raised hand: medium-light skin tone |1f3fc
+raised hand: medium skin tone |1f3fd
+raised hand: medium-dark skin tone |1f3fe
+raised hand: dark skin tone |1f3ff
+OK hand |1f44c
+OK hand: light skin tone |1f3fb
+OK hand: medium-light skin tone |1f3fc
+OK hand: medium skin tone |1f3fd
+OK hand: medium-dark skin tone |1f3fe
+OK hand: dark skin tone |1f3ff
+thumbs up |1f44d
+thumbs up: light skin tone |1f3fb
+thumbs up: medium-light skin tone |1f3fc
+thumbs up: medium skin tone |1f3fd
+thumbs up: medium-dark skin tone |1f3fe
+thumbs up: dark skin tone |1f3ff
+thumbs down |1f44e
+thumbs down: light skin tone |1f3fb
+thumbs down: medium-light skin tone |1f3fc
+thumbs down: medium skin tone |1f3fd
+thumbs down: medium-dark skin tone |1f3fe
+thumbs down: dark skin tone |1f3ff
+raised fist |270a
+raised fist: light skin tone |1f3fb
+raised fist: medium-light skin tone |1f3fc
+raised fist: medium skin tone |1f3fd
+raised fist: medium-dark skin tone |1f3fe
+raised fist: dark skin tone |1f3ff
+oncoming fist |1f44a
+oncoming fist: light skin tone |1f3fb
+oncoming fist: medium-light skin tone |1f3fc
+oncoming fist: medium skin tone |1f3fd
+oncoming fist: medium-dark skin tone |1f3fe
+oncoming fist: dark skin tone |1f3ff
+left-facing fist |1f91b
+left-facing fist: light skin tone |1f3fb
+left-facing fist: medium-light skin tone |1f3fc
+left-facing fist: medium skin tone |1f3fd
+left-facing fist: medium-dark skin tone |1f3fe
+left-facing fist: dark skin tone |1f3ff
+right-facing fist |1f91c
+right-facing fist: light skin tone |1f3fb
+right-facing fist: medium-light skin tone |1f3fc
+right-facing fist: medium skin tone |1f3fd
+right-facing fist: medium-dark skin tone |1f3fe
+right-facing fist: dark skin tone |1f3ff
+raised back of hand |1f91a
+raised back of hand: light skin tone |1f3fb
+raised back of hand: medium-light skin tone |1f3fc
+raised back of hand: medium skin tone |1f3fd
+raised back of hand: medium-dark skin tone |1f3fe
+raised back of hand: dark skin tone |1f3ff
+waving hand |1f44b
+waving hand: light skin tone |1f3fb
+waving hand: medium-light skin tone |1f3fc
+waving hand: medium skin tone |1f3fd
+waving hand: medium-dark skin tone |1f3fe
+waving hand: dark skin tone |1f3ff
+love-you gesture |1f91f
+love-you gesture: light skin tone |1f3fb
+love-you gesture: medium-light skin tone |1f3fc
+love-you gesture: medium skin tone |1f3fd
+love-you gesture: medium-dark skin tone |1f3fe
+love-you gesture: dark skin tone |1f3ff
+writing hand |270d
+writing hand: light skin tone |1f3fb
+writing hand: medium-light skin tone |1f3fc
+writing hand: medium skin tone |1f3fd
+writing hand: medium-dark skin tone |1f3fe
+writing hand: dark skin tone |1f3ff
+clapping hands |1f44f
+clapping hands: light skin tone |1f3fb
+clapping hands: medium-light skin tone |1f3fc
+clapping hands: medium skin tone |1f3fd
+clapping hands: medium-dark skin tone |1f3fe
+clapping hands: dark skin tone |1f3ff
+open hands |1f450
+open hands: light skin tone |1f3fb
+open hands: medium-light skin tone |1f3fc
+open hands: medium skin tone |1f3fd
+open hands: medium-dark skin tone |1f3fe
+open hands: dark skin tone |1f3ff
+raising hands |1f64c
+raising hands: light skin tone |1f3fb
+raising hands: medium-light skin tone |1f3fc
+raising hands: medium skin tone |1f3fd
+raising hands: medium-dark skin tone |1f3fe
+raising hands: dark skin tone |1f3ff
+palms up together |1f932
+palms up together: light skin tone |1f3fb
+palms up together: medium-light skin tone |1f3fc
+palms up together: medium skin tone |1f3fd
+palms up together: medium-dark skin tone |1f3fe
+palms up together: dark skin tone |1f3ff
+folded hands |1f64f
+folded hands: light skin tone |1f3fb
+folded hands: medium-light skin tone |1f3fc
+folded hands: medium skin tone |1f3fd
+folded hands: medium-dark skin tone |1f3fe
+folded hands: dark skin tone |1f3ff
+handshake |1f91d
+nail polish |1f485
+nail polish: light skin tone |1f3fb
+nail polish: medium-light skin tone |1f3fc
+nail polish: medium skin tone |1f3fd
+nail polish: medium-dark skin tone |1f3fe
+nail polish: dark skin tone |1f3ff
+ear |1f442
+ear: light skin tone |1f3fb
+ear: medium-light skin tone |1f3fc
+ear: medium skin tone |1f3fd
+ear: medium-dark skin tone |1f3fe
+ear: dark skin tone |1f3ff
+nose |1f443
+nose: light skin tone |1f3fb
+nose: medium-light skin tone |1f3fc
+nose: medium skin tone |1f3fd
+nose: medium-dark skin tone |1f3fe
+nose: dark skin tone |1f3ff
+red-haired |1f9b0
+curly-haired |1f9b1
+bald |1f9b2
+white-haired |1f9b3
+footprints |1f463
+eyes |1f440
+eye |1f441
+eye in speech bubble |fe0f
+brain |1f9e0
+bone |1f9b4
+tooth |1f9b7
+tongue |1f445
+mouth |1f444
+kiss mark |1f48b
+heart with arrow |1f498
+red heart |2764
+beating heart |1f493
+broken heart |1f494
+two hearts |1f495
+sparkling heart |1f496
+growing heart |1f497
+blue heart |1f499
+green heart |1f49a
+yellow heart |1f49b
+orange heart |1f9e1
+purple heart |1f49c
+black heart |1f5a4
+heart with ribbon |1f49d
+revolving hearts |1f49e
+heart decoration |1f49f
+heavy heart exclamation |2763
+love letter |1f48c
+zzz |1f4a4
+anger symbol |1f4a2
+bomb |1f4a3
+collision |1f4a5
+sweat droplets |1f4a6
+dashing away |1f4a8
+dizzy |1f4ab
+speech balloon |1f4ac
+left speech bubble |1f5e8
+right anger bubble |1f5ef
+thought balloon |1f4ad
+hole |1f573
+glasses |1f453
+sunglasses |1f576
+goggles |1f97d
+lab coat |1f97c
+necktie |1f454
+t-shirt |1f455
+jeans |1f456
+scarf |1f9e3
+gloves |1f9e4
+coat |1f9e5
+socks |1f9e6
+dress |1f457
+kimono |1f458
+bikini |1f459
+woman’s clothes |1f45a
+purse |1f45b
+handbag |1f45c
+clutch bag |1f45d
+shopping bags |1f6cd
+school backpack |1f392
+man’s shoe |1f45e
+running shoe |1f45f
+hiking boot |1f97e
+woman’s flat shoe |1f97f
+high-heeled shoe |1f460
+woman’s sandal |1f461
+woman’s boot |1f462
+crown |1f451
+woman’s hat |1f452
+top hat |1f3a9
+graduation cap |1f393
+billed cap |1f9e2
+rescue worker’s helmet |26d1
+prayer beads |1f4ff
+lipstick |1f484
+ring |1f48d
+gem stone |1f48e
+monkey face |1f435
+monkey |1f412
+gorilla |1f98d
+dog face |1f436
+dog |1f415
+poodle |1f429
+wolf face |1f43a
+fox face |1f98a
+raccoon |1f99d
+cat face |1f431
+cat |1f408
+lion face |1f981
+tiger face |1f42f
+tiger |1f405
+leopard |1f406
+horse face |1f434
+horse |1f40e
+unicorn face |1f984
+zebra |1f993
+deer |1f98c
+cow face |1f42e
+ox |1f402
+water buffalo |1f403
+cow |1f404
+pig face |1f437
+pig |1f416
+boar |1f417
+pig nose |1f43d
+ram |1f40f
+ewe |1f411
+goat |1f410
+camel |1f42a
+two-hump camel |1f42b
+llama |1f999
+giraffe |1f992
+elephant |1f418
+rhinoceros |1f98f
+hippopotamus |1f99b
+mouse face |1f42d
+mouse |1f401
+rat |1f400
+hamster face |1f439
+rabbit face |1f430
+rabbit |1f407
+chipmunk |1f43f
+hedgehog |1f994
+bat |1f987
+bear face |1f43b
+koala |1f428
+panda face |1f43c
+kangaroo |1f998
+badger |1f9a1
+paw prints |1f43e
+turkey |1f983
+chicken |1f414
+rooster |1f413
+hatching chick |1f423
+baby chick |1f424
+front-facing baby chick |1f425
+bird |1f426
+penguin |1f427
+dove |1f54a
+eagle |1f985
+duck |1f986
+swan |1f9a2
+owl |1f989
+peacock |1f99a
+parrot |1f99c
+frog face |1f438
+crocodile |1f40a
+turtle |1f422
+lizard |1f98e
+snake |1f40d
+dragon face |1f432
+dragon |1f409
+sauropod |1f995
+T-Rex |1f996
+spouting whale |1f433
+whale |1f40b
+dolphin |1f42c
+fish |1f41f
+tropical fish |1f420
+blowfish |1f421
+shark |1f988
+octopus |1f419
+spiral shell |1f41a
+crab |1f980
+lobster |1f99e
+shrimp |1f990
+squid |1f991
+snail |1f40c
+butterfly |1f98b
+bug |1f41b
+ant |1f41c
+honeybee |1f41d
+lady beetle |1f41e
+cricket |1f997
+spider |1f577
+spider web |1f578
+scorpion |1f982
+mosquito |1f99f
+microbe |1f9a0
+bouquet |1f490
+cherry blossom |1f338
+white flower |1f4ae
+rosette |1f3f5
+rose |1f339
+wilted flower |1f940
+hibiscus |1f33a
+sunflower |1f33b
+blossom |1f33c
+tulip |1f337
+seedling |1f331
+evergreen tree |1f332
+deciduous tree |1f333
+palm tree |1f334
+cactus |1f335
+sheaf of rice |1f33e
+herb |1f33f
+shamrock |2618
+four leaf clover |1f340
+maple leaf |1f341
+fallen leaf |1f342
+leaf fluttering in wind |1f343
+grapes |1f347
+melon |1f348
+watermelon |1f349
+tangerine |1f34a
+lemon |1f34b
+banana |1f34c
+pineapple |1f34d
+mango |1f96d
+red apple |1f34e
+green apple |1f34f
+pear |1f350
+peach |1f351
+cherries |1f352
+strawberry |1f353
+kiwi fruit |1f95d
+tomato |1f345
+coconut |1f965
+avocado |1f951
+eggplant |1f346
+potato |1f954
+carrot |1f955
+ear of corn |1f33d
+hot pepper |1f336
+cucumber |1f952
+leafy green |1f96c
+broccoli |1f966
+mushroom |1f344
+peanuts |1f95c
+chestnut |1f330
+bread |1f35e
+croissant |1f950
+baguette bread |1f956
+pretzel |1f968
+bagel |1f96f
+pancakes |1f95e
+cheese wedge |1f9c0
+meat on bone |1f356
+poultry leg |1f357
+cut of meat |1f969
+bacon |1f953
+hamburger |1f354
+french fries |1f35f
+pizza |1f355
+hot dog |1f32d
+sandwich |1f96a
+taco |1f32e
+burrito |1f32f
+stuffed flatbread |1f959
+egg |1f95a
+cooking |1f373
+shallow pan of food |1f958
+pot of food |1f372
+bowl with spoon |1f963
+green salad |1f957
+popcorn |1f37f
+salt |1f9c2
+canned food |1f96b
+bento box |1f371
+rice cracker |1f358
+rice ball |1f359
+cooked rice |1f35a
+curry rice |1f35b
+steaming bowl |1f35c
+spaghetti |1f35d
+roasted sweet potato |1f360
+oden |1f362
+sushi |1f363
+fried shrimp |1f364
+fish cake with swirl |1f365
+moon cake |1f96e
+dango |1f361
+dumpling |1f95f
+fortune cookie |1f960
+takeout box |1f961
+soft ice cream |1f366
+shaved ice |1f367
+ice cream |1f368
+doughnut |1f369
+cookie |1f36a
+birthday cake |1f382
+shortcake |1f370
+cupcake |1f9c1
+pie |1f967
+chocolate bar |1f36b
+candy |1f36c
+lollipop |1f36d
+custard |1f36e
+honey pot |1f36f
+baby bottle |1f37c
+glass of milk |1f95b
+hot beverage |2615
+teacup without handle |1f375
+sake |1f376
+bottle with popping cork |1f37e
+wine glass |1f377
+cocktail glass |1f378
+tropical drink |1f379
+beer mug |1f37a
+clinking beer mugs |1f37b
+clinking glasses |1f942
+tumbler glass |1f943
+cup with straw |1f964
+chopsticks |1f962
+fork and knife with plate |1f37d
+fork and knife |1f374
+spoon |1f944
+kitchen knife |1f52a
+amphora |1f3fa
+globe showing Europe-Africa |1f30d
+globe showing Americas |1f30e
+globe showing Asia-Australia |1f30f
+globe with meridians |1f310
+world map |1f5fa
+map of Japan |1f5fe
+compass |1f9ed
+snow-capped mountain |1f3d4
+mountain |26f0
+volcano |1f30b
+mount fuji |1f5fb
+camping |1f3d5
+beach with umbrella |1f3d6
+desert |1f3dc
+desert island |1f3dd
+national park |1f3de
+stadium |1f3df
+classical building |1f3db
+building construction |1f3d7
+bricks |1f9f1
+houses |1f3d8
+derelict house |1f3da
+house |1f3e0
+house with garden |1f3e1
+office building |1f3e2
+Japanese post office |1f3e3
+post office |1f3e4
+hospital |1f3e5
+bank |1f3e6
+hotel |1f3e8
+love hotel |1f3e9
+convenience store |1f3ea
+school |1f3eb
+department store |1f3ec
+factory |1f3ed
+Japanese castle |1f3ef
+castle |1f3f0
+wedding |1f492
+Tokyo tower |1f5fc
+Statue of Liberty |1f5fd
+church |26ea
+mosque |1f54c
+synagogue |1f54d
+shinto shrine |26e9
+kaaba |1f54b
+fountain |26f2
+tent |26fa
+foggy |1f301
+night with stars |1f303
+cityscape |1f3d9
+sunrise over mountains |1f304
+sunrise |1f305
+cityscape at dusk |1f306
+sunset |1f307
+bridge at night |1f309
+hot springs |2668
+milky way |1f30c
+carousel horse |1f3a0
+ferris wheel |1f3a1
+roller coaster |1f3a2
+barber pole |1f488
+circus tent |1f3aa
+locomotive |1f682
+railway car |1f683
+high-speed train |1f684
+bullet train |1f685
+train |1f686
+metro |1f687
+light rail |1f688
+station |1f689
+tram |1f68a
+monorail |1f69d
+mountain railway |1f69e
+tram car |1f68b
+bus |1f68c
+oncoming bus |1f68d
+trolleybus |1f68e
+minibus |1f690
+ambulance |1f691
+fire engine |1f692
+police car |1f693
+oncoming police car |1f694
+taxi |1f695
+oncoming taxi |1f696
+automobile |1f697
+oncoming automobile |1f698
+sport utility vehicle |1f699
+delivery truck |1f69a
+articulated lorry |1f69b
+tractor |1f69c
+bicycle |1f6b2
+kick scooter |1f6f4
+skateboard |1f6f9
+motor scooter |1f6f5
+bus stop |1f68f
+motorway |1f6e3
+railway track |1f6e4
+oil drum |1f6e2
+fuel pump |26fd
+police car light |1f6a8
+horizontal traffic light |1f6a5
+vertical traffic light |1f6a6
+stop sign |1f6d1
+construction |1f6a7
+anchor |2693
+sailboat |26f5
+canoe |1f6f6
+speedboat |1f6a4
+passenger ship |1f6f3
+ferry |26f4
+motor boat |1f6e5
+ship |1f6a2
+airplane |2708
+small airplane |1f6e9
+airplane departure |1f6eb
+airplane arrival |1f6ec
+seat |1f4ba
+helicopter |1f681
+suspension railway |1f69f
+mountain cableway |1f6a0
+aerial tramway |1f6a1
+satellite |1f6f0
+rocket |1f680
+flying saucer |1f6f8
+bellhop bell |1f6ce
+luggage |1f9f3
+hourglass done |231b
+hourglass not done |23f3
+watch |231a
+alarm clock |23f0
+stopwatch |23f1
+timer clock |23f2
+mantelpiece clock |1f570
+twelve o’clock |1f55b
+twelve-thirty |1f567
+one o’clock |1f550
+one-thirty |1f55c
+two o’clock |1f551
+two-thirty |1f55d
+three o’clock |1f552
+three-thirty |1f55e
+four o’clock |1f553
+four-thirty |1f55f
+five o’clock |1f554
+five-thirty |1f560
+six o’clock |1f555
+six-thirty |1f561
+seven o’clock |1f556
+seven-thirty |1f562
+eight o’clock |1f557
+eight-thirty |1f563
+nine o’clock |1f558
+nine-thirty |1f564
+ten o’clock |1f559
+ten-thirty |1f565
+eleven o’clock |1f55a
+eleven-thirty |1f566
+new moon |1f311
+waxing crescent moon |1f312
+first quarter moon |1f313
+waxing gibbous moon |1f314
+full moon |1f315
+waning gibbous moon |1f316
+last quarter moon |1f317
+waning crescent moon |1f318
+crescent moon |1f319
+new moon face |1f31a
+first quarter moon face |1f31b
+last quarter moon face |1f31c
+thermometer |1f321
+sun |2600
+full moon face |1f31d
+sun with face |1f31e
+star |2b50
+glowing star |1f31f
+shooting star |1f320
+cloud |2601
+sun behind cloud |26c5
+cloud with lightning and rain |26c8
+sun behind small cloud |1f324
+sun behind large cloud |1f325
+sun behind rain cloud |1f326
+cloud with rain |1f327
+cloud with snow |1f328
+cloud with lightning |1f329
+tornado |1f32a
+fog |1f32b
+wind face |1f32c
+cyclone |1f300
+rainbow |1f308
+closed umbrella |1f302
+umbrella |2602
+umbrella with rain drops |2614
+umbrella on ground |26f1
+high voltage |26a1
+snowflake |2744
+snowman |2603
+snowman without snow |26c4
+comet |2604
+fire |1f525
+droplet |1f4a7
+water wave |1f30a
+jack-o-lantern |1f383
+Christmas tree |1f384
+fireworks |1f386
+sparkler |1f387
+firecracker |1f9e8
+sparkles |2728
+balloon |1f388
+party popper |1f389
+confetti ball |1f38a
+tanabata tree |1f38b
+pine decoration |1f38d
+Japanese dolls |1f38e
+carp streamer |1f38f
+wind chime |1f390
+moon viewing ceremony |1f391
+red envelope |1f9e7
+ribbon |1f380
+wrapped gift |1f381
+reminder ribbon |1f397
+admission tickets |1f39f
+ticket |1f3ab
+military medal |1f396
+trophy |1f3c6
+sports medal |1f3c5
+1st place medal |1f947
+2nd place medal |1f948
+3rd place medal |1f949
+soccer ball |26bd
+baseball |26be
+softball |1f94e
+basketball |1f3c0
+volleyball |1f3d0
+american football |1f3c8
+rugby football |1f3c9
+tennis |1f3be
+flying disc |1f94f
+bowling |1f3b3
+cricket game |1f3cf
+field hockey |1f3d1
+ice hockey |1f3d2
+lacrosse |1f94d
+ping pong |1f3d3
+badminton |1f3f8
+boxing glove |1f94a
+martial arts uniform |1f94b
+goal net |1f945
+flag in hole |26f3
+ice skate |26f8
+fishing pole |1f3a3
+running shirt |1f3bd
+skis |1f3bf
+sled |1f6f7
+curling stone |1f94c
+direct hit |1f3af
+pool 8 ball |1f3b1
+crystal ball |1f52e
+nazar amulet |1f9ff
+video game |1f3ae
+joystick |1f579
+slot machine |1f3b0
+game die |1f3b2
+jigsaw |1f9e9
+teddy bear |1f9f8
+spade suit |2660
+heart suit |2665
+diamond suit |2666
+club suit |2663
+chess pawn |265f
+joker |1f0cf
+mahjong red dragon |1f004
+flower playing cards |1f3b4
+performing arts |1f3ad
+framed picture |1f5bc
+artist palette |1f3a8
+thread |1f9f5
+yarn |1f9f6
+muted speaker |1f507
+speaker low volume |1f508
+speaker medium volume |1f509
+speaker high volume |1f50a
+loudspeaker |1f4e2
+megaphone |1f4e3
+postal horn |1f4ef
+bell |1f514
+bell with slash |1f515
+musical score |1f3bc
+musical note |1f3b5
+musical notes |1f3b6
+studio microphone |1f399
+level slider |1f39a
+control knobs |1f39b
+microphone |1f3a4
+headphone |1f3a7
+radio |1f4fb
+saxophone |1f3b7
+guitar |1f3b8
+musical keyboard |1f3b9
+trumpet |1f3ba
+violin |1f3bb
+drum |1f941
+mobile phone |1f4f1
+mobile phone with arrow |1f4f2
+telephone |260e
+telephone receiver |1f4de
+pager |1f4df
+fax machine |1f4e0
+battery |1f50b
+electric plug |1f50c
+laptop computer |1f4bb
+desktop computer |1f5a5
+printer |1f5a8
+keyboard |2328
+computer mouse |1f5b1
+trackball |1f5b2
+computer disk |1f4bd
+floppy disk |1f4be
+optical disk |1f4bf
+dvd |1f4c0
+abacus |1f9ee
+movie camera |1f3a5
+film frames |1f39e
+film projector |1f4fd
+clapper board |1f3ac
+television |1f4fa
+camera |1f4f7
+camera with flash |1f4f8
+video camera |1f4f9
+videocassette |1f4fc
+magnifying glass tilted left |1f50d
+magnifying glass tilted right |1f50e
+candle |1f56f
+light bulb |1f4a1
+flashlight |1f526
+red paper lantern |1f3ee
+notebook with decorative cover |1f4d4
+closed book |1f4d5
+open book |1f4d6
+green book |1f4d7
+blue book |1f4d8
+orange book |1f4d9
+books |1f4da
+notebook |1f4d3
+ledger |1f4d2
+page with curl |1f4c3
+scroll |1f4dc
+page facing up |1f4c4
+newspaper |1f4f0
+rolled-up newspaper |1f5de
+bookmark tabs |1f4d1
+bookmark |1f516
+label |1f3f7
+money bag |1f4b0
+yen banknote |1f4b4
+dollar banknote |1f4b5
+euro banknote |1f4b6
+pound banknote |1f4b7
+money with wings |1f4b8
+credit card |1f4b3
+receipt |1f9fe
+chart increasing with yen |1f4b9
+currency exchange |1f4b1
+heavy dollar sign |1f4b2
+envelope |2709
+e-mail |1f4e7
+incoming envelope |1f4e8
+envelope with arrow |1f4e9
+outbox tray |1f4e4
+inbox tray |1f4e5
+package |1f4e6
+closed mailbox with raised flag |1f4eb
+closed mailbox with lowered flag |1f4ea
+open mailbox with raised flag |1f4ec
+open mailbox with lowered flag |1f4ed
+postbox |1f4ee
+ballot box with ballot |1f5f3
+pencil |270f
+black nib |2712
+fountain pen |1f58b
+pen |1f58a
+paintbrush |1f58c
+crayon |1f58d
+memo |1f4dd
+briefcase |1f4bc
+file folder |1f4c1
+open file folder |1f4c2
+card index dividers |1f5c2
+calendar |1f4c5
+tear-off calendar |1f4c6
+spiral notepad |1f5d2
+spiral calendar |1f5d3
+card index |1f4c7
+chart increasing |1f4c8
+chart decreasing |1f4c9
+bar chart |1f4ca
+clipboard |1f4cb
+pushpin |1f4cc
+round pushpin |1f4cd
+paperclip |1f4ce
+linked paperclips |1f587
+straight ruler |1f4cf
+triangular ruler |1f4d0
+scissors |2702
+card file box |1f5c3
+file cabinet |1f5c4
+wastebasket |1f5d1
+locked |1f512
+unlocked |1f513
+locked with pen |1f50f
+locked with key |1f510
+key |1f511
+old key |1f5dd
+hammer |1f528
+pick |26cf
+hammer and pick |2692
+hammer and wrench |1f6e0
+dagger |1f5e1
+crossed swords |2694
+pistol |1f52b
+bow and arrow |1f3f9
+shield |1f6e1
+wrench |1f527
+nut and bolt |1f529
+gear |2699
+clamp |1f5dc
+balance scale |2696
+link |1f517
+chains |26d3
+toolbox |1f9f0
+magnet |1f9f2
+alembic |2697
+test tube |1f9ea
+petri dish |1f9eb
+dna |1f9ec
+microscope |1f52c
+telescope |1f52d
+satellite antenna |1f4e1
+syringe |1f489
+pill |1f48a
+door |1f6aa
+bed |1f6cf
+couch and lamp |1f6cb
+toilet |1f6bd
+shower |1f6bf
+bathtub |1f6c1
+lotion bottle |1f9f4
+safety pin |1f9f7
+broom |1f9f9
+basket |1f9fa
+roll of paper |1f9fb
+soap |1f9fc
+sponge |1f9fd
+fire extinguisher |1f9ef
+shopping cart |1f6d2
+cigarette |1f6ac
+coffin |26b0
+funeral urn |26b1
+moai |1f5ff
+ATM sign |1f3e7
+litter in bin sign |1f6ae
+potable water |1f6b0
+wheelchair symbol |267f
+men’s room |1f6b9
+women’s room |1f6ba
+restroom |1f6bb
+baby symbol |1f6bc
+water closet |1f6be
+passport control |1f6c2
+customs |1f6c3
+baggage claim |1f6c4
+left luggage |1f6c5
+warning |26a0
+children crossing |1f6b8
+no entry |26d4
+prohibited |1f6ab
+no bicycles |1f6b3
+no smoking |1f6ad
+no littering |1f6af
+non-potable water |1f6b1
+no pedestrians |1f6b7
+no mobile phones |1f4f5
+no one under eighteen |1f51e
+radioactive |2622
+biohazard |2623
+up arrow |2b06
+up-right arrow |2197
+right arrow |27a1
+down-right arrow |2198
+down arrow |2b07
+down-left arrow |2199
+left arrow |2b05
+up-left arrow |2196
+up-down arrow |2195
+left-right arrow |2194
+right arrow curving left |21a9
+left arrow curving right |21aa
+right arrow curving up |2934
+right arrow curving down |2935
+clockwise vertical arrows |1f503
+counterclockwise arrows button |1f504
+BACK arrow |1f519
+END arrow |1f51a
+ON! scope="row" | arrow |1f51b
+SOON arrow |1f51c
+TOP arrow |1f51d
+place of worship |1f6d0
+atom symbol |269b
+om |1f549
+star of David |2721
+wheel of dharma |2638
+yin yang |262f
+latin cross |271d
+orthodox cross |2626
+star and crescent |262a
+peace symbol |262e
+menorah |1f54e
+dotted six-pointed star |1f52f
+Aries |2648
+Taurus |2649
+Gemini |264a
+Cancer |264b
+Leo |264c
+Virgo |264d
+Libra |264e
+Scorpio |264f
+Sagittarius |2650
+Capricorn |2651
+Aquarius |2652
+Pisces |2653
+Ophiuchus |26ce
+shuffle tracks button |1f500
+repeat button |1f501
+repeat single button |1f502
+play button |25b6
+fast-forward button |23e9
+next track button |23ed
+play or pause button |23ef
+reverse button |25c0
+fast reverse button |23ea
+last track button |23ee
+upwards button |1f53c
+fast up button |23eb
+downwards button |1f53d
+fast down button |23ec
+pause button |23f8
+stop button |23f9
+record button |23fa
+eject button |23cf
+cinema |1f3a6
+dim button |1f505
+bright button |1f506
+antenna bars |1f4f6
+vibration mode |1f4f3
+mobile phone off |1f4f4
+female sign |2640
+male sign |2642
+medical symbol |2695
+infinity |267e
+recycling symbol |267b
+fleur-de-lis |269c
+trident emblem |1f531
+name badge |1f4db
+Japanese symbol for beginner |1f530
+heavy large circle |2b55
+white heavy check mark |2705
+ballot box with check |2611
+heavy check mark |2714
+heavy multiplication x |2716
+cross mark |274c
+cross mark button |274e
+heavy plus sign |2795
+heavy minus sign |2796
+heavy division sign |2797
+curly loop |27b0
+double curly loop |27bf
+part alternation mark |303d
+eight-spoked asterisk |2733
+eight-pointed star |2734
+sparkle |2747
+double exclamation mark |203c
+exclamation question mark |2049
+question mark |2753
+white question mark |2754
+white exclamation mark |2755
+exclamation mark |2757
+wavy dash |3030
+copyright |00a9
+registered |00ae
+trade mark |2122
+keycap: # |20e3
+keycap: * |20e3
+keycap: 0 |20e3
+keycap: 1 |20e3
+keycap: 2 |20e3
+keycap: 3 |20e3
+keycap: 4 |20e3
+keycap: 5 |20e3
+keycap: 6 |20e3
+keycap: 7 |20e3
+keycap: 8 |20e3
+keycap: 9 |20e3
+keycap: 10 |1f51f
+hundred points |1f4af
+input latin uppercase |1f520
+input latin lowercase |1f521
+input numbers |1f522
+input symbols |1f523
+input latin letters |1f524
+A button (blood type) |1f170
+AB button (blood type) |1f18e
+B button (blood type) |1f171
+CL button |1f191
+COOL button |1f192
+FREE button |1f193
+information |2139
+ID button |1f194
+circled M |24c2
+NEW button |1f195
+NG button |1f196
+O button (blood type) |1f17e
+OK button |1f197
+P button |1f17f
+SOS button |1f198
+UP! scope="row" | button |1f199
+VS button |1f19a
+Japanese “here” button |1f201
+Japanese “service charge” button |1f202
+Japanese “monthly amount” button |1f237
+Japanese “not free of charge” button |1f236
+Japanese “reserved” button |1f22f
+Japanese “bargain” button |1f250
+Japanese “discount” button |1f239
+Japanese “free of charge” button |1f21a
+Japanese “prohibited” button |1f232
+Japanese “acceptable” button |1f251
+Japanese “application” button |1f238
+Japanese “passing grade” button |1f234
+Japanese “vacancy” button |1f233
+Japanese “congratulations” button |3297
+Japanese “secret” button |3299
+Japanese “open for business” button |1f23a
+Japanese “no vacancy” button |1f235
+black small square |25aa
+white small square |25ab
+white medium square |25fb
+black medium square |25fc
+white medium-small square |25fd
+black medium-small square |25fe
+black large square |2b1b
+white large square |2b1c
+large orange diamond |1f536
+large blue diamond |1f537
+small orange diamond |1f538
+small blue diamond |1f539
+red triangle pointed up |1f53a
+red triangle pointed down |1f53b
+diamond with a dot |1f4a0
+radio button |1f518
+black square button |1f532
+white square button |1f533
+white circle |26aa
+black circle |26ab
+red circle |1f534
+blue circle |1f535
+chequered flag |1f3c1
+triangular flag |1f6a9
+crossed flags |1f38c
+black flag |1f3f4
+white flag |1f3f3
+rainbow flag |1f308
+pirate flag |fe0f
+Ascension Island |1f1e8
+Andorra |1f1e9
+United Arab Emirates |1f1ea
+Afghanistan |1f1eb
+Antigua &amp;amp; Barbuda |1f1ec
+Anguilla |1f1ee
+Albania |1f1f1
+Armenia |1f1f2
+Angola |1f1f4
+Antarctica |1f1f6
+Argentina |1f1f7
+American Samoa |1f1f8
+Austria |1f1f9
+Australia |1f1fa
+Aruba |1f1fc
+Åland Islands |1f1fd
+Azerbaijan |1f1ff
+Bosnia &amp;amp; Herzegovina |1f1e6
+Barbados |1f1e7
+Bangladesh |1f1e9
+Belgium |1f1ea
+Burkina Faso |1f1eb
+Bulgaria |1f1ec
+Bahrain |1f1ed
+Burundi |1f1ee
+Benin |1f1ef
+St. Barthélemy |1f1f1
+Bermuda |1f1f2
+Brunei |1f1f3
+Bolivia |1f1f4
+Caribbean Netherlands |1f1f6
+Brazil |1f1f7
+Bahamas |1f1f8
+Bhutan |1f1f9
+Bouvet Island |1f1fb
+Botswana |1f1fc
+Belarus |1f1fe
+Belize |1f1ff
+Canada |1f1e6
+Cocos (Keeling) Islands |1f1e8
+Congo - Kinshasa |1f1e9
+Central African Republic |1f1eb
+Congo - Brazzaville |1f1ec
+Switzerland |1f1ed
+Côte d’Ivoire |1f1ee
+Cook Islands |1f1f0
+Chile |1f1f1
+Cameroon |1f1f2
+China |1f1f3
+Colombia |1f1f4
+Clipperton Island |1f1f5
+Costa Rica |1f1f7
+Cuba |1f1fa
+Cape Verde |1f1fb
+Curaçao |1f1fc
+Christmas Island |1f1fd
+Cyprus |1f1fe
+Czechia |1f1ff
+Germany |1f1ea
+Diego Garcia |1f1ec
+Djibouti |1f1ef
+Denmark |1f1f0
+Dominica |1f1f2
+Dominican Republic |1f1f4
+Algeria |1f1ff
+Ceuta &amp;amp; Melilla |1f1e6
+Ecuador |1f1e8
+Estonia |1f1ea
+Egypt |1f1ec
+Western Sahara |1f1ed
+Eritrea |1f1f7
+Spain |1f1f8
+Ethiopia |1f1f9
+European Union |1f1fa
+Finland |1f1ee
+Fiji |1f1ef
+Falkland Islands |1f1f0
+Micronesia |1f1f2
+Faroe Islands |1f1f4
+France |1f1f7
+Gabon |1f1e6
+United Kingdom |1f1e7
+Grenada |1f1e9
+Georgia |1f1ea
+French Guiana |1f1eb
+Guernsey |1f1ec
+Ghana |1f1ed
+Gibraltar |1f1ee
+Greenland |1f1f1
+Gambia |1f1f2
+Guinea |1f1f3
+Guadeloupe |1f1f5
+Equatorial Guinea |1f1f6
+Greece |1f1f7
+South Georgia &amp;amp; South Sandwich Islands |1f1f8
+Guatemala |1f1f9
+Guam |1f1fa
+Guinea-Bissau |1f1fc
+Guyana |1f1fe
+Hong Kong SAR China |1f1f0
+Heard &amp;amp; McDonald Islands |1f1f2
+Honduras |1f1f3
+Croatia |1f1f7
+Haiti |1f1f9
+Hungary |1f1fa
+Canary Islands |1f1e8
+Indonesia |1f1e9
+Ireland |1f1ea
+Israel |1f1f1
+Isle of Man |1f1f2
+India |1f1f3
+British Indian Ocean Territory |1f1f4
+Iraq |1f1f6
+Iran |1f1f7
+Iceland |1f1f8
+Italy |1f1f9
+Jersey |1f1ea
+Jamaica |1f1f2
+Jordan |1f1f4
+Japan |1f1f5
+Kenya |1f1ea
+Kyrgyzstan |1f1ec
+Cambodia |1f1ed
+Kiribati |1f1ee
+Comoros |1f1f2
+St. Kitts &amp;amp; Nevis |1f1f3
+North Korea |1f1f5
+South Korea |1f1f7
+Kuwait |1f1fc
+Cayman Islands |1f1fe
+Kazakhstan |1f1ff
+Laos |1f1e6
+Lebanon |1f1e7
+St. Lucia |1f1e8
+Liechtenstein |1f1ee
+Sri Lanka |1f1f0
+Liberia |1f1f7
+Lesotho |1f1f8
+Lithuania |1f1f9
+Luxembourg |1f1fa
+Latvia |1f1fb
+Libya |1f1fe
+Morocco |1f1e6
+Monaco |1f1e8
+Moldova |1f1e9
+Montenegro |1f1ea
+St. Martin |1f1eb
+Madagascar |1f1ec
+Marshall Islands |1f1ed
+Macedonia |1f1f0
+Mali |1f1f1
+Myanmar (Burma) |1f1f2
+Mongolia |1f1f3
+Macau SAR China |1f1f4
+Northern Mariana Islands |1f1f5
+Martinique |1f1f6
+Mauritania |1f1f7
+Montserrat |1f1f8
+Malta |1f1f9
+Mauritius |1f1fa
+Maldives |1f1fb
+Malawi |1f1fc
+Mexico |1f1fd
+Malaysia |1f1fe
+Mozambique |1f1ff
+Namibia |1f1e6
+New Caledonia |1f1e8
+Niger |1f1ea
+Norfolk Island |1f1eb
+Nigeria |1f1ec
+Nicaragua |1f1ee
+Netherlands |1f1f1
+Norway |1f1f4
+Nepal |1f1f5
+Nauru |1f1f7
+Niue |1f1fa
+New Zealand |1f1ff
+Oman |1f1f2
+Panama |1f1e6
+Peru |1f1ea
+French Polynesia |1f1eb
+Papua New Guinea |1f1ec
+Philippines |1f1ed
+Pakistan |1f1f0
+Poland |1f1f1
+St. Pierre &amp;amp; Miquelon |1f1f2
+Pitcairn Islands |1f1f3
+Puerto Rico |1f1f7
+Palestinian Territories |1f1f8
+Portugal |1f1f9
+Palau |1f1fc
+Paraguay |1f1fe
+Qatar |1f1e6
+Réunion |1f1ea
+Romania |1f1f4
+Serbia |1f1f8
+Russia |1f1fa
+Rwanda |1f1fc
+Saudi Arabia |1f1e6
+Solomon Islands |1f1e7
+Seychelles |1f1e8
+Sudan |1f1e9
+Sweden |1f1ea
+Singapore |1f1ec
+St. Helena |1f1ed
+Slovenia |1f1ee
+Svalbard &amp;amp; Jan Mayen |1f1ef
+Slovakia |1f1f0
+Sierra Leone |1f1f1
+San Marino |1f1f2
+Senegal |1f1f3
+Somalia |1f1f4
+Suriname |1f1f7
+South Sudan |1f1f8
+São Tomé &amp;amp; Príncipe |1f1f9
+El Salvador |1f1fb
+Sint Maarten |1f1fd
+Syria |1f1fe
+Swaziland |1f1ff
+Tristan da Cunha |1f1e6
+Turks &amp;amp; Caicos Islands |1f1e8
+Chad |1f1e9
+French Southern Territories |1f1eb
+Togo |1f1ec
+Thailand |1f1ed
+Tajikistan |1f1ef
+Tokelau |1f1f0
+Timor-Leste |1f1f1
+Turkmenistan |1f1f2
+Tunisia |1f1f3
+Tonga |1f1f4
+Turkey |1f1f7
+Trinidad &amp;amp; Tobago |1f1f9
+Tuvalu |1f1fb
+Taiwan |1f1fc
+Tanzania |1f1ff
+Ukraine |1f1e6
+Uganda |1f1ec
+U.S. Outlying Islands |1f1f2
+United Nations |1f1f3
+United States |1f1f8
+Uruguay |1f1fe
+Uzbekistan |1f1ff
+Vatican City |1f1e6
+St. Vincent &amp;amp; Grenadines |1f1e8
+Venezuela |1f1ea
+British Virgin Islands |1f1ec
+U.S. Virgin Islands |1f1ee
+Vietnam |1f1f3
+Vanuatu |1f1fa
+Wallis &amp;amp; Futuna |1f1eb
+Samoa |1f1f8
+Kosovo |1f1f0
+Yemen |1f1ea
+Mayotte |1f1f9
+South Africa |1f1e6
+Zambia |1f1f2
+Zimbabwe |1f1fc
+England |e007f
+Scotland |e007f
+Wales |e007f
