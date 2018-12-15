@@ -101,3 +101,4 @@ neofetch
 export WALLPAPER_PATH=~/.config/i3/wallpaper.jpg
 alias vim=nvim
 cat ~/.cache/wal/sequences
+PATH=$PATH:$HOME/scripts

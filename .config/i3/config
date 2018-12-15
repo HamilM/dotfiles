@@ -39,6 +39,8 @@ bindsym $mod+Shift+q kill
 # start dmenu (a program launcher)
 #bindsym $mod+d exec dmenu_run
 bindsym $mod+d exec rofi -show combi
+
+bindsym $mod+o exec urxvt -e 'ranger'
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
@@ -81,7 +83,7 @@ bindsym $mod+f fullscreen toggle
 #bindsym $mod+s layout stacking
 #bindsym $mod+w layout tabbed
 #bindsym $mod+e layout toggle split
-
+bindsym $mod+e exec rofi_emoji.sh
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
 
@@ -203,4 +205,4 @@ popup_during_fullscreen smart
 # Set screen energy timeout for 5 minutes
 exec xset dpms $((60*5))
 # enable redshift 
-exec redshift -P -b 0.9:0.2 -l geoclue2 -t 5400:2800
+exec_always redshift -P -b 0.9:0.9 -l geoclue2 -t 5400:4400

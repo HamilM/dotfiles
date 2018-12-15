@@ -19,7 +19,7 @@ fi
 ########## CODE ###########
 ###########################
 install_package git python python-pip neovim openssh
-sudo pip install ipython
+pip install ipython
 ln -s /bin/nvim /bin/vim
 
 ###########################
@@ -110,7 +110,10 @@ timedatectl set-timezone $(curl https://ipapi.co/timezone)
 # retext 	- MD editor
 # qutebrowser 	- Keyboard oriented browser
 # ranger 	- file-manager.
-install_package evince retext qutebrowser ranger zip unzip p7zip wget
+# mpv		- video player
+# subliminal	- subtitle downloader
+install_package evince retext qutebrowser ranger zip unzip p7zip wget mpv
+pip install subliminal
 
 # Ranger add-ons
 # lynx / elinks - html ascii browsers.
