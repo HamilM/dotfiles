@@ -124,7 +124,8 @@ pip install subliminal
 # arandr	- simple graphical frontend for xrandr.
 # redshift	- controls screen colors depends on hour of day.
 # subdl		- auto download of subtitles
-install_package lynx elinks highlight libcaca atool xpdf mediainfo arandr redshift subdl
+# dunst		- desktop notification tool
+install_package lynx elinks highlight libcaca atool xpdf mediainfo arandr redshift subdl dunst
 
 # translate shell - translate words in the shell
 

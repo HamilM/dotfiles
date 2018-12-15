@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+function select_output {
+	xrandr -q | grep " connected" | cut -f 1 -d ' ' | rofi -dmenu -mesg "Select a monitor"
+}
+
+MONITOR=$(select_output)
+if [ -z $MONITOR ]; then
+	echo "No monitor selected"
+	exit 
+fi
+RESOLUTION=$(xrandr | tr '\n' ' ' | sed -r 's/[^ ]+ (dis)?connected/\n&/g' | grep $MONITOR | sed -n -r 's/([0-9]+x[0-9]+ )/\n\1/gp' | tail -n +2 | sed 's/ .*//g' | rofi -dmenu -mesg 'Select resolution for monitor $MONITOR:')
+if [ -z $RESOLUTION ]; then
+	echo "No resolution picked!"
+	exit
+fi
+
+xrandr --output "$MONITOR" --mode "$RESOLUTION"
