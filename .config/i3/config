@@ -38,7 +38,7 @@ bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
 #bindsym $mod+d exec dmenu_run
-bindsym $mod+d exec rofi -show combi
+bindsym $mod+d exec zsh -c 'rofi -show combi'
 
 bindsym $mod+o exec urxvt -e 'ranger'
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -83,7 +83,7 @@ bindsym $mod+f fullscreen toggle
 #bindsym $mod+s layout stacking
 #bindsym $mod+w layout tabbed
 #bindsym $mod+e layout toggle split
-bindsym $mod+e exec rofi_emoji.sh
+bindsym $mod+e exec pick_emoji.sh
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
 
@@ -179,3 +179,4 @@ popup_during_fullscreen smart
 exec xset dpms $((60*5))
 # enable redshift 
 exec_always redshift -P -b 0.9:0.9 -l geoclue2 -t 5400:4400
+bindsym $mod+y exec pick_audio_output.sh
