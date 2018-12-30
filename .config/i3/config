@@ -9,16 +9,17 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
+set $TERMINAL urxvt
 
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 12
+#font pango:monospace 12
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-#font pango:DejaVu Sans Mono 8
+font pango:DejaVu Sans Mono 16
 
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
@@ -31,7 +32,7 @@ font pango:monospace 12
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec $TERMINAL
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -167,16 +168,18 @@ bindsym $mod+s gaps inner all plus 5
 bindsym $mod+Shift+s gaps inner all minus 5
 
 
-exec_always wal -i ~/.config/i3/wallpaper.jpg -a 80
+exec_always wal -i ~/.config/i3/wallpaper.jpg -a 90
 exec compton -b
 
-default_border none
-default_floating_border none
+default_border pixel2
+default_floating_border pixel2
 
 popup_during_fullscreen smart
 
 # Set screen energy timeout for 5 minutes
 exec xset dpms $((60*5))
 # enable redshift 
-exec_always redshift -P -b 0.9:0.9 -l geoclue2 -t 5400:4400
+#exec_always redshift -P -b 0.9:0.9 -l geoclue2 -t 5400:4400
 bindsym $mod+y exec pick_audio_output.sh
+
+exec_always zsh -c '[ $(pkill -SIGUSR1 dunst ; echo $?) -ne 0 ] && dunst '

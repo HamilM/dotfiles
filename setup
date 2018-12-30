@@ -25,7 +25,9 @@ ln -s /bin/nvim /bin/vim
 ###########################
 ####### ENVIRONMENT #######
 ###########################
-install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick feh neofetch i3-gaps i3blocks rofi 
+install_package zsh zsh-autosuggestions zsh-syntax-highlighting rxvt-unicode imagemagick feh neofetch i3-gaps i3blocks rofi cronie
+systemctl enable cronie
+systemctl start cronie
 
 
 
@@ -54,7 +56,7 @@ make
 popd
 
 # i3blocks dependecies
-install_package acpi sysstat alsa-utils ttf-font-awesome otf-font-awesome
+install_package acpi sysstat alsa-utils otf-font-awesome
 
 ###########################
 ####### NETWORKING ########
@@ -92,6 +94,10 @@ DEFAULT_VOLUME_LEVEL=20
 pamixer --set-volume $DEFAULT_VOLUME_LEVEL
 pamixer -u
 
+# You also have to add the following lines to /etc/pulse/system.pa
+# load-module module-bluetooth-policy
+# load-module module-bluetooth-discover
+
 ###########################
 ######### TIME ###########
 ###########################
@@ -128,6 +134,7 @@ pip install subliminal
 install_package lynx elinks highlight libcaca atool xpdf mediainfo arandr redshift subdl dunst
 
 # translate shell - translate words in the shell
+
 
 ##########################
 ########## VIM ###########

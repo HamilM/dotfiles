@@ -1,6 +1,7 @@
-URxvt.font: xft:DejaVu Sans mono for Powerline:size=14
+URxvt.font: xft:DejaVu Sans mono for Powerline:size=16
 URxvt.scrollBar:false
 urxvt*depth: 32
+urxvt.borderLess: false
 ! Enable the extended coloring options
 rofi.color-enabled: true
 !                  bg       border   separator
