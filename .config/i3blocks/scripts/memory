@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+TOTAL=$(free -h --si | head -n 2 | tail -n 1 | awk '{print $2}')
+USED=$(free -h --si | head -n 2 | tail -n 1 | awk '{print $3}')
+TOTAL_B=$(free --si | head -n 2 | tail -n 1 | awk '{print $2}')
+USED_B=$(free  --si | head -n 2 | tail -n 1 | awk '{print $3}')
+PERCENTAGE=$((($USED_B*100)/$TOTAL_B))
+PERCENTAGE_C=$(echo "(${PERCENTAGE}*200)/100" | bc)
+COLOR_R=$(printf "%02x" $PERCENTAGE_C)
+COLOR_G=$(printf "%02x" $((200 - $PERCENTAGE_C)))
+color=${COLOR_R}${COLOR_G}00
+echo -e "{ \"full_text\" : \"  ($PERCENTAGE%) $USED/$TOTAL\" , \"color\":\"#$color\" }"
+ 

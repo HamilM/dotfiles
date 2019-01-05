@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+IDLE=$(mpstat 1 1 | tail -n 1 | awk '{ print $12 }')
+BUSY_P=$(echo "(100-$IDLE)/1" | bc)
+BUSY=$(echo "((100-$IDLE)*200)/100" | bc)
+COLOR_R=$(printf "%02x" $BUSY)
+COLOR_G=$(printf "%02x" $((200-$BUSY)))
+COLOR=#${COLOR_R}${COLOR_G}00
+echo "{ \"full_text\" : \"  $BUSY_P% \" , \"color\":\"$COLOR\" }"

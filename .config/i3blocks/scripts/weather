@@ -1,0 +1,52 @@
+#!/usr/bin/env zsh
+
+CACHE=${HOME}/.config/.weather_cache
+TIME=$(date +%s)
+CACHE_TIME=$(stat -c %Y ${CACHE})
+DIFF=$(($TIME - $CACHE_TIME))
+if [ \( $DIFF -gt 1800 \) -a \( $(ping -c 1 8.8.8.8 | wc -l) -gt 0 \) ]; then
+	curl wttr.in/ 2>&- > ${CACHE}
+fi
+case $BLOCK_BUTTON in 
+1) urxvt -e less -S ${CACHE}
+esac
+PLACE=$(cat ${CACHE} |  head -n 1 | cut -f 3- -d ' ')
+cat ${CACHE} | sed -r 's/\x1b\[[^m]*m//g' | cut -c 16- | sed -n '3,7 s/ *$//p' | tr '\n' '!' | IFS="!" read -r DESC TEMP WIND DIST PERC
+TEMP=$(echo -n $TEMP | tr -d ' ')
+case $(echo $DESC | tr '[:upper:]' '[:lower:]') in
+
+"partly cloudy")
+	ICON=
+	;;
+
+*"drizzle"*|"light rain"* |"patchy rain"*)
+	ICON=
+	;;
+
+*"rain"*)
+	ICON=
+	;;
+
+*"light snow"*|"light sleet"*|*"patchy sleet"*)
+	ICON=
+	;;
+*"snow"*|*"sleet"*)
+	ICON=
+	;;
+
+"sunny"|"clear")
+	ICON=
+	;;
+
+"cloudy"|"overcast")
+	ICON=
+	;;
+"mist"|*"fog")
+	ICON=
+	;;
+*"pellets"*)
+	ICON=
+esac
+[[ $DESC == *thunder* ]] && ICON=${ICON}
+#echo "{ \"full_text\" : \"$ICON  $TEMP| $WIND\" , \"color\" : \"#aaaaaa\" }"
+echo "{ \"full_text\" : \"$ICON  $TEMP\" , \"color\" : \"#aaaaaa\" }"

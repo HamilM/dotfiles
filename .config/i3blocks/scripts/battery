@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+PERCENTAGE=$(acpi | sed -r 's/^.* ([0-9]+)%.*$/\1/')
+PLUGGED=
+BAT_FULL=
+BAT_THREE_QRT=
+BAT_HALF=
+BAT_QRT=
+BAT_EMPTY=
+
+PERCENTAGE_C=$(echo "(${PERCENTAGE}*200)/100" | bc)
+COLOR_G=$(printf "%02x" $PERCENTAGE_C)
+COLOR_R=$(printf "%02x" $((200 - $PERCENTAGE_C)))
+color=${COLOR_R}${COLOR_G}00
+if (($PERCENTAGE >= 90)); then
+	ICON=$BAT_FULL
+elif (($PERCENTAGE >= 70)); then
+	ICON=$BAT_THREE_QRT
+elif (($PERCENTAGE >= 45)); then
+	ICON=$BAT_HALF
+elif (($PERCENTAGE >= 20)); then
+	ICON=$BAT_QRT
+else
+	ICON=$BAT_EMPTY
+fi
+LINE=$(acpi | sed -r "s/^[^:]*:([^%]+%).*$/\1/ ; s/(Discharging|Unknown),/${ICON}/ ; s/(Charging|Full),/$PLUGGED/" ) 
+echo -e "{ \"full_text\" : \"$LINE\" , \"color\":\"#$color\" }"
+ AT_EMPTY=
