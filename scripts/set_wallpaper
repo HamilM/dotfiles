@@ -1,0 +1,30 @@
+#!/usr/bin/sh
+
+PROG_NAME=$0
+function write_error {
+	echo "[ERROR] $PROG_NAME: $*"
+}
+
+
+if [ ! $# -eq 1 ]; then
+	write_error "Usage: $0 <PATH_OF_NEW_WALLPAPER_IMAGE>"
+	exit -1
+fi
+FILE=$1
+if [ ! -f $FILE ]; then
+	write_error File not found: $FILE 
+	exit -2
+fi
+
+if [ -z $WALLPAPER_PATH ]; then
+	write_error "WALLPAPER_PATH variable is not set! Cannot determine where to store the new wallpaper"
+	exit -3
+fi
+
+if [ -f $WALLPAPER_PATH ]; then
+	mv $WALLPAPER_PATH $WALLPAPER_PATH.prev
+fi
+
+mv $FILE $WALLPAPER_PATH
+# Restart i3, this will set the new wallpaper and adjust pywal accordingly
+i3-msg restart

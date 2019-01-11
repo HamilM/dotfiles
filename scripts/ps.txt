@@ -1,0 +1,175 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:45 ?        00:00:05 /sbin/init
+root         2     0  0 17:45 ?        00:00:00 [kthreadd]
+root         4     2  0 17:45 ?        00:00:00 [kworker/0:0H]
+root         6     2  0 17:45 ?        00:00:00 [mm_percpu_wq]
+root         7     2  0 17:45 ?        00:00:00 [ksoftirqd/0]
+root         8     2  0 17:45 ?        00:00:01 [rcu_sched]
+root         9     2  0 17:45 ?        00:00:00 [rcu_bh]
+root        10     2  0 17:45 ?        00:00:00 [migration/0]
+root        11     2  0 17:45 ?        00:00:00 [watchdog/0]
+root        12     2  0 17:45 ?        00:00:00 [cpuhp/0]
+root        13     2  0 17:45 ?        00:00:00 [cpuhp/1]
+root        14     2  0 17:45 ?        00:00:00 [watchdog/1]
+root        15     2  0 17:45 ?        00:00:00 [migration/1]
+root        16     2  0 17:45 ?        00:00:00 [ksoftirqd/1]
+root        18     2  0 17:45 ?        00:00:00 [kworker/1:0H]
+root        19     2  0 17:45 ?        00:00:00 [cpuhp/2]
+root        20     2  0 17:45 ?        00:00:00 [watchdog/2]
+root        21     2  0 17:45 ?        00:00:00 [migration/2]
+root        22     2  0 17:45 ?        00:00:00 [ksoftirqd/2]
+root        24     2  0 17:45 ?        00:00:00 [kworker/2:0H]
+root        25     2  0 17:45 ?        00:00:00 [cpuhp/3]
+root        26     2  0 17:45 ?        00:00:00 [watchdog/3]
+root        27     2  0 17:45 ?        00:00:00 [migration/3]
+root        28     2  0 17:45 ?        00:00:00 [ksoftirqd/3]
+root        30     2  0 17:45 ?        00:00:00 [kworker/3:0H]
+root        31     2  0 17:45 ?        00:00:00 [cpuhp/4]
+root        32     2  0 17:45 ?        00:00:00 [watchdog/4]
+root        33     2  0 17:45 ?        00:00:00 [migration/4]
+root        34     2  0 17:45 ?        00:00:00 [ksoftirqd/4]
+root        36     2  0 17:45 ?        00:00:00 [kworker/4:0H]
+root        37     2  0 17:45 ?        00:00:00 [cpuhp/5]
+root        38     2  0 17:45 ?        00:00:00 [watchdog/5]
+root        39     2  0 17:45 ?        00:00:00 [migration/5]
+root        40     2  0 17:45 ?        00:00:00 [ksoftirqd/5]
+root        42     2  0 17:45 ?        00:00:00 [kworker/5:0H]
+root        43     2  0 17:45 ?        00:00:00 [cpuhp/6]
+root        44     2  0 17:45 ?        00:00:00 [watchdog/6]
+root        45     2  0 17:45 ?        00:00:00 [migration/6]
+root        46     2  0 17:45 ?        00:00:00 [ksoftirqd/6]
+root        48     2  0 17:45 ?        00:00:00 [kworker/6:0H]
+root        49     2  0 17:45 ?        00:00:00 [cpuhp/7]
+root        50     2  0 17:45 ?        00:00:00 [watchdog/7]
+root        51     2  0 17:45 ?        00:00:00 [migration/7]
+root        52     2  0 17:45 ?        00:00:00 [ksoftirqd/7]
+root        54     2  0 17:45 ?        00:00:00 [kworker/7:0H]
+root        55     2  0 17:45 ?        00:00:00 [kdevtmpfs]
+root        56     2  0 17:45 ?        00:00:00 [netns]
+root        59     2  0 17:45 ?        00:00:00 [khungtaskd]
+root        60     2  0 17:45 ?        00:00:00 [oom_reaper]
+root        61     2  0 17:45 ?        00:00:00 [writeback]
+root        62     2  0 17:45 ?        00:00:00 [kcompactd0]
+root        63     2  0 17:45 ?        00:00:00 [ksmd]
+root        64     2  0 17:45 ?        00:00:00 [khugepaged]
+root        65     2  0 17:45 ?        00:00:00 [crypto]
+root        66     2  0 17:45 ?        00:00:00 [kintegrityd]
+root        67     2  0 17:45 ?        00:00:00 [kblockd]
+root        68     2  0 17:45 ?        00:00:00 [kworker/2:1]
+root        71     2  0 17:45 ?        00:00:00 [kworker/5:1]
+root        73     2  0 17:45 ?        00:00:00 [kworker/7:1]
+root        74     2  0 17:45 ?        00:00:00 [edac-poller]
+root        75     2  0 17:45 ?        00:00:00 [devfreq_wq]
+root        76     2  0 17:45 ?        00:00:00 [watchdogd]
+root        78     2  0 17:45 ?        00:00:00 [kswapd0]
+root       116     2  0 17:45 ?        00:00:00 [kthrotld]
+root       117     2  0 17:45 ?        00:00:00 [ipv6_addrconf]
+root       126     2  0 17:45 ?        00:00:00 [kstrp]
+root       162     2  0 17:45 ?        00:00:00 [ata_sff]
+root       164     2  0 17:45 ?        00:00:00 [scsi_eh_0]
+root       165     2  0 17:45 ?        00:00:00 [scsi_tmf_0]
+root       166     2  0 17:45 ?        00:00:00 [scsi_eh_1]
+root       167     2  0 17:45 ?        00:00:00 [scsi_tmf_1]
+root       168     2  0 17:45 ?        00:00:00 [scsi_eh_2]
+root       169     2  0 17:45 ?        00:00:00 [scsi_tmf_2]
+root       170     2  0 17:45 ?        00:00:00 [scsi_eh_3]
+root       171     2  0 17:45 ?        00:00:00 [scsi_tmf_3]
+root       191     2  0 17:45 ?        00:00:00 [kworker/0:1H]
+root       199     2  0 17:45 ?        00:00:00 [kworker/4:1H]
+root       202     2  0 17:45 ?        00:00:00 [kworker/u17:0]
+root       213     2  0 17:45 ?        00:00:00 [jbd2/sda5-8]
+root       214     2  0 17:45 ?        00:00:00 [ext4-rsv-conver]
+root       215     2  0 17:45 ?        00:00:00 [kworker/1:1H]
+root       236     1  0 17:45 ?        00:00:00 /usr/lib/systemd/systemd-journald
+root       239     2  0 17:45 ?        00:00:00 [kworker/3:1H]
+root       249     1  0 17:45 ?        00:00:00 /usr/bin/lvmetad -f
+root       252     2  0 17:45 ?        00:00:00 [usbip_event]
+root       253     2  0 17:45 ?        00:00:00 [kworker/7:1H]
+root       255     2  0 17:45 ?        00:00:00 [kworker/5:1H]
+root       257     2  0 17:45 ?        00:00:00 [kworker/6:1H]
+root       262     2  0 17:45 ?        00:00:00 [kworker/2:1H]
+root       263     1  0 17:45 ?        00:00:00 /usr/lib/systemd/systemd-udevd
+root       290     2  0 17:45 ?        00:00:00 [acpi_thermal_pm]
+root       295     2  0 17:45 ?        00:00:00 [asus_wireless_w]
+root       296     2  0 17:45 ?        00:00:00 [irq/117-ELAN120]
+root       305     2  0 17:45 ?        00:00:00 [kworker/u17:2]
+root       332     2  0 17:45 ?        00:00:00 [irq/125-mei_me]
+root       334     2  0 17:45 ?        00:00:00 [kmemstick]
+root       335     2  0 17:45 ?        00:00:00 [cfg80211]
+root       337     2  0 17:45 ?        00:00:04 [irq/127-iwlwifi]
+root       343     2  0 17:45 ?        00:00:01 [i915/signal:0]
+root       344     2  0 17:45 ?        00:00:00 [i915/signal:1]
+root       345     2  0 17:45 ?        00:00:00 [i915/signal:2]
+root       346     2  0 17:45 ?        00:00:00 [i915/signal:4]
+root       366     2  0 17:45 ?        00:00:00 [led_workqueue]
+root       381     2  0 17:45 ?        00:00:00 [jbd2/sda6-8]
+root       382     2  0 17:45 ?        00:00:00 [ext4-rsv-conver]
+root       407     2  0 17:46 ?        00:00:00 [jbd2/sdb2-8]
+root       408     2  0 17:46 ?        00:00:00 [ext4-rsv-conver]
+systemd+   413     1  0 17:46 ?        00:00:00 /usr/lib/systemd/systemd-timesyncd
+root       417     1  0 17:46 ?        00:00:00 /usr/bin/bumblebeed
+root       418     1  0 17:46 ?        00:00:00 /usr/lib/systemd/systemd-logind
+dbus       419     1  0 17:46 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       476     1  0 17:46 ?        00:00:00 wpa_supplicant -q -B -P /run/wpa_supplicant-wlp2s0.pid -i wlp2s0 -D nl80211,wext -c/run/netctl/wpa_supplicant-wlp2s0.conf -W
+root       478     1  0 17:46 ?        00:00:00 wpa_actiond -p /run/wpa_supplicant -i wlp2s0 -P /run/netctl/wpa_actiond-wlp2s0.pid -a /usr/lib/netctl/auto.action
+matt       506     1  0 17:46 ?        00:00:00 /usr/lib/systemd/systemd --user
+matt       507   506  0 17:46 ?        00:00:00 (sd-pam)
+matt       556     1  0 17:46 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+root       564     1  0 17:46 ?        00:00:00 /usr/lib/geoclue
+matt       587   506  0 17:46 ?        00:00:17 /usr/bin/pulseaudio --daemonize=no
+rtkit      588     1  0 17:46 ?        00:00:00 /usr/lib/rtkit-daemon
+polkitd    594     1  0 17:46 ?        00:00:00 /usr/lib/polkit-1/polkitd --no-debug
+root       599     1  0 17:46 ?        00:00:00 /usr/bin/wpa_supplicant -u
+matt       624   506  0 17:46 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+matt       637   587  0 17:46 ?        00:00:00 /usr/lib/pulse/gsettings-helper
+root       717     1  0 17:46 ?        00:00:00 dhcpcd -4 -q -t 30 -K -L wlp2s0
+matt      1403   506  0 17:46 ?        00:00:00 /usr/lib/at-spi-bus-launcher
+root      1683     2  0 18:54 ?        00:00:00 [kworker/0:2]
+root      3749     2  0 17:51 ?        00:00:00 [kworker/3:0]
+matt      4004     1  0 18:57 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+root      5492     2  0 18:59 ?        00:00:00 [kworker/u16:0]
+matt      5547     1  0 19:00 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+matt      7239     1  0 19:01 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+matt      8047     1  0 19:02 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+matt      8870     1  0 19:03 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+root     10789     2  0 19:07 ?        00:00:00 [kworker/5:2]
+root     11531     2  0 19:09 ?        00:00:00 [kworker/0:1]
+root     12003     2  0 19:10 ?        00:00:00 [kworker/u16:1]
+root     12667     2  0 19:11 ?        00:00:00 [kworker/6:1]
+root     12669     2  0 19:11 ?        00:00:00 [kworker/4:2]
+root     12698     2  0 19:11 ?        00:00:00 [kworker/1:1]
+root     12763     1  0 19:11 ?        00:00:00 login -- matt
+matt     12764 12763  0 19:11 tty1     00:00:00 /bin/sh /usr/bin/startx
+matt     12788 12764  0 19:11 tty1     00:00:00 xinit /home/matt/.xinitrc -- /etc/X11/xinit/xserverrc :0 vt1 -keeptty -auth /tmp/serverauth.tXh29StEi1
+matt     12789 12788  1 19:11 tty1     00:00:03 /usr/lib/Xorg -nolisten tcp :0 vt1 -keeptty -auth /tmp/serverauth.tXh29StEi1
+root     12793 12789  0 19:11 tty1     00:00:00 xf86-video-intel-backlight-helper intel_backlight
+matt     12797 12788  0 19:11 tty1     00:00:00 i3 -a --restart /run/user/1000/i3/restart-state.12797
+matt     12802     1  0 19:11 ?        00:00:01 compton -b
+matt     12808     1  0 19:11 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+root     12888     2  0 19:11 ?        00:00:00 [kworker/7:2]
+matt     12922     1  0 19:12 ?        00:00:00 urxvt
+matt     12923 12922  0 19:12 pts/0    00:00:00 zsh
+root     12941     2  0 19:12 ?        00:00:00 [kworker/2:2]
+root     13282     2  0 19:12 ?        00:00:00 [kworker/3:1]
+matt     13509     1  0 19:12 ?        00:00:00 urxvt
+matt     13510 13509  0 19:12 pts/1    00:00:00 zsh
+root     13758     2  0 19:12 ?        00:00:00 [kworker/5:0]
+matt     13969     1  0 19:13 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+root     15022     2  0 19:14 ?        00:00:00 [kworker/0:0]
+root     16039     2  0 18:21 ?        00:00:00 [kworker/1:0]
+root     16115     2  0 18:21 ?        00:00:00 [kworker/6:0]
+root     16215     2  0 18:21 ?        00:00:00 [kworker/4:0]
+root     16290     2  0 19:16 ?        00:00:00 [kworker/6:2]
+root     16407     2  0 19:17 ?        00:00:00 [kworker/1:2]
+root     16413     2  0 19:17 ?        00:00:00 [kworker/4:1]
+matt     16417     1  0 19:17 ?        00:00:00 redshift -P -b 0.9 0.9 -l geoclue2 -t 5400 4400
+matt     16419     1  0 19:17 ?        00:00:00 i3bar --bar_id=bar-0 --socket=/run/user/1000/i3/ipc-socket.12797
+matt     16425 16419  0 19:17 ?        00:00:00 i3blocks
+matt     16433 16425  0 19:17 ?        00:00:00 /home/matt/.config/i3blocks/bandwidth2/bandwidth2
+root     16496     2  0 19:17 ?        00:00:00 [kworker/2:0]
+matt     16620     1  0 19:17 ?        00:00:00 /bin/sh -c ps -Af > /home/matt/scripts/ps.txt
+matt     16621 16620  0 19:17 ?        00:00:00 ps -Af
+root     17603     1  0 18:24 ?        00:00:01 /sbin/mount.ntfs /dev/sdb1 /home/matt/ntfs -o rw
+matt     17671  1403  0 18:24 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+matt     17673   506  0 18:24 ?        00:00:00 /usr/lib/at-spi2-registryd --use-gnome-session
+root     31550     2  0 18:50 ?        00:00:00 [kworker/u16:3]

@@ -1,0 +1,1 @@
+/usr/local/sbin:/usr/local/bin:/usr/bin:/home/matt/scripts:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/matt/scripts:/home/matt/scripts
