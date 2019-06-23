@@ -1,5 +1,11 @@
 command=$SCRIPT_DIR/scripts/$BLOCK_NAME
 
+[volume]
+interval=once
+signal=1
+min_width="10000%"
+color=#aaaaaa
+
 [memory]
 interval=20
 format=json
@@ -7,7 +13,7 @@ format=json
 [cpu]
 interval=5
 format=json
-min_width="100%"
+min_width="10000%"
 
 [battery]
 interval=60
@@ -22,4 +28,3 @@ format=json
 command=printf "  $(date +%H:%M:%S)  $(date +%d/%m/%Y)\n"
 interval=1
 color=#aaaaaa
-

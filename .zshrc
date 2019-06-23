@@ -96,8 +96,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-neofetch
+#neofetch
 
 export WALLPAPER_PATH=~/.config/i3/wallpaper.jpg
 alias vim=nvim
-#cat ~/.cache/wal/sequences
+cat ~/.cache/wal/sequences
