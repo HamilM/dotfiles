@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+VOL=$(pamixer --get-volume)
+if [ $(pamixer --get-mute) == true ]; then
+    printf "   \n"
+    exit
+fi
+
+ICON=
+if [ $VOL -eq 0 ]; then
+    ICON=
+elif [ $VOL -lt 50 ]; then
+    ICON=
+fi
+
+printf "$ICON $VOL%%\n"

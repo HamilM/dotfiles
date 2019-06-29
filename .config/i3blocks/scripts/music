@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+function do_line {
+    LINE_END=$LINE"\", \"color\":\"#$COLOR\" }"
+    WHOLE_LINE=$LINE_START$LINE_CONTENT$LINE_END
+    echo "$WHOLE_LINE"
+    mpc idle &>- 
+}
+
+
+while [ ! ]; do
+    COLOR=ffffff
+    LINE_START="{ \"full_text\" : \"🎶"
+    LINE_CONTENT=$(mpc status -f '[%artist% - ][%title%]' | head -n 1 | sed 's/&/&amp;/g' | tr -d '\n')
+
+    STATUS=$(mpc status | sed -n -r 's/^\[(.*)\].*$/\1/p')
+    if [ -z "$STATUS" ]; then
+	COLOR="aa0000"
+	LINE_CONTENT="⏹ - STOPPED"
+ 	do_line
+	continue
+    elif [ "$STATUS" == "paused" ]; then
+	COLOR="aaaa00"
+    fi
+    do_line
+done

@@ -1,4 +1,10 @@
 command=$SCRIPT_DIR/scripts/$BLOCK_NAME
+markup=pango
+
+[music]
+interval=persist
+signal=11
+format=json
 
 [volume]
 interval=once
@@ -28,3 +34,4 @@ format=json
 command=printf "  $(date +%H:%M:%S)  $(date +%d/%m/%Y)\n"
 interval=1
 color=#aaaaaa
+

@@ -54,11 +54,6 @@ bindsym $mod+j focus down
 bindsym $mod+k focus up
 bindsym $mod+l focus right
 
-# alternatively, you can use the cursor keys:
-bindsym $mod+Left focus left
-bindsym $mod+Down focus down
-bindsym $mod+Up focus up
-bindsym $mod+Right focus right
 
 # move focused window
 bindsym $mod+Shift+h move left
@@ -66,11 +61,6 @@ bindsym $mod+Shift+j move down
 bindsym $mod+Shift+k move up
 bindsym $mod+Shift+l move right
 
-# alternatively, you can use the cursor keys:
-bindsym $mod+Shift+Left move left
-bindsym $mod+Shift+Down move down
-bindsym $mod+Shift+Up move up
-bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
 bindsym $mod+g split h
@@ -138,8 +128,11 @@ bindsym $mod+Shift+e exec i3-msg exit
 
 ##### MULTIMEDIA SUPPORT #######
 bindsym XF86AudioRaiseVolume exec pamixer --increase 5 && pkill -RTMIN+1 i3blocks
+bindsym $mod+F12 exec pamixer --increase 5 && pkill -RTMIN+1 i3blocks
 bindsym XF86AudioLowerVolume exec pamixer --decrease 5 && pkill -RTMIN+1 i3blocks
+bindsym $mod+F11 exec pamixer --decrease 5 && pkill -RTMIN+1 i3blocks
 bindsym XF86AudioMute exec pamixer -t && pkill -RTMIN+1 i3blocks
+bindsym $mod+F10 exec pamixer -t && pkill -RTMIN+1 i3blocks
 
 ##### Screen SUPPORT #######
 bindsym XF86MonBrightnessUp exec xbacklight -inc 3
@@ -196,3 +189,12 @@ exec_always wal -i ~/.config/i3/wallpaper.jpg -a 60
 bindsym $mod+p [instance="pyscratch"] scratchpad show; [instance="pyscratch"] move position center
 bindsym $mod+BackSpace exec xrandr --auto
 bindsym $mod+t exec download_open_youtube.sh
+
+#Music
+bindsym $mod+Down exec mpc toggle
+bindsym $mod+Right exec mpc next
+bindsym $mod+Left exec mpc prev
+bindsym $mod+Shift+Right exec mpc seek +5
+bindsym $mod+Shift+Left exec mpc seek -5
+bindsym $mod+Shift+Up exec mpc_add_to_queue.sh
+bindsym $mod+Up exec mpc_playlist_select.sh
