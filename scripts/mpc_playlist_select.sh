@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-pkill -0 mpd ||
-    ( pkill -0 dunst && notify-send "MPD is not running!" ;
-      exit -1)
+
+if ! pkill -0 mpd; then
+    pkill -0 dunst && notify-send "MPD is not running!"
+    exit -1
+fi
 
 
 INDEX=$(mpc playlist | rofi -i -dmenu -format 'i')
