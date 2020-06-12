@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+cat - | xclip -i -selection clipboard -rmlastnl
+xclip -o -selection clipboard | xclip -i 
