@@ -12,4 +12,4 @@ super+o
 super+F12
  sudo xbacklight -inc 5
 super+F11
- sudo xbacklight -dec 5 ; notify-send hi 
+ sudo xbacklight -dec 5
