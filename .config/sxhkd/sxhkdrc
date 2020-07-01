@@ -1,6 +1,3 @@
-#super+d
-#rofi -show combi -modi combi -combi-modi run,ssh,window
-
 super+a
  $BROWSER
 super+Return
@@ -13,3 +10,15 @@ super+F12
  sudo xbacklight -inc 5
 super+F11
  sudo xbacklight -dec 5
+super+F10
+ pamixer -i 2
+super+F9
+ pamixer -d 2
+super+F8
+ pamixer -t
+super+Left
+ playerctl previous
+super+Right
+ playerctl next
+super+Down
+ playerctl play-pause
