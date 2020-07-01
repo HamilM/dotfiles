@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+DWMPID=$(ps -Af | grep dwm_status | grep -v grep | awk '{print $2}')
+[ -z $DWMPID ] && exit
+kill -SIGUSR1 "$DWMPID"
