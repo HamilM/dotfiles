@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+DELIM=|
+declare -f get_date
+function get_date {
+    date +'%A %d/%m/%y %H:%M:%S'
+}
+
+function get_battery {
+    acpi -b | sed -r -n 's/^[^%]* ([0-9]+%).*$/\1/gp'       
+}
+
+function get_volume {
+    pamixer --get-volume-human
+}
+
+function do_update {
+    st=$(get_volume)" | "$(get_battery)" | "$(get_date)
+    xsetroot -name "$st"
+}
+
+trap ":" SIGUSR1
+while true; do
+    do_update
+    sleep 1 &
+    wait $!
+done
+
+
