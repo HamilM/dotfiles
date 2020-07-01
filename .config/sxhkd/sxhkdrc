@@ -11,11 +11,11 @@ super+F12
 super+F11
  sudo xbacklight -dec 5
 super+F10
- pamixer -i 2
+ pamixer -i 2 ; refresh_status
 super+F9
- pamixer -d 2
+ pamixer -d 2 ; refresh_status
 super+F8
- pamixer -t
+ pamixer -t ; refresh_status
 super+Left
  playerctl previous
 super+Right
