@@ -3,7 +3,7 @@ super+a
 super+Return
  $TERMINAL
 super+p
- dmenu_run
+ rofi -show combi -combi modi -combi-modi run,window
 super+o
  $TERMINAL -e 'ranger'
 super+F12
