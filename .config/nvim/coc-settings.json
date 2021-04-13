@@ -1,0 +1,46 @@
+{
+	"latex.forwardSearch.executable": "/Applications/Skim.app/Contents/SharedSupport/displayline",
+	"latex.forwardSearch.args": [
+		"%l",
+		"%p",
+		"%f"
+	],
+	"latex.build.onSave": true,
+	"latex.build.forwardSearchAfter": true,
+	"latex.build.args": [
+		"-pdf",
+		"-interaction=nonstopmode",
+		"-synctex=1",
+		"%f"
+	],
+	"suggest.enablePreview": true,
+	"suggest.enablePreselect": false,
+	"suggest.triggerAfterInsertEnter": true,
+	"diagnostic.checkCurrentLine": true,
+	"diagnostic.virtualText": true,
+	"codeLens.enable": true,
+	"coc.preferences.enableMarkdown": true,
+	"python.jediEnabled": false,
+	"python.linting.mypyArgs": [
+		"--ignore-missing-imports",
+		"--follow-imports=silent",
+		"--show-column-numbers",
+		"--strict",
+		"--allow-sublassing-any"
+	],
+	"python.autoComplete.addBrackets": true,
+	"python.formatting.provider": "black",
+	"coc.preferences.formatOnSaveFiletypes": [
+		"python",
+		"go",
+		"c",
+		"cpp",
+		"json"
+	],
+	"go.enable": true,
+	"go.goplsOptions": {
+		"gofumpt": true
+	},
+	"clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd",
+	"coc.source.emoji.filetypes": null
+}

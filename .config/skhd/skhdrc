@@ -1,0 +1,35 @@
+alt - r : skhd -r
+
+# Open specific apps
+cmd + ctrl - return : open -a kitty
+cmd + ctrl - w : open -a WhatsApp
+cmd + ctrl - a : open -a "Brave Browser"
+cmd + ctrl - s : open -a Spotify
+cmd + ctrl - g : open -a Signal
+cmd + ctrl - l : open -a Slack
+cmd +  ctrl -j : ~/tools/jeb/jeb_macos.sh
+
+# Movement
+alt - h : yabai -m window --focus west || yabai -m display --focus next || yabai -m display --focus first
+alt - j : yabai -m window --focus south || yabai -m space --focus prev || yabai -m space --focus last
+alt - k : yabai -m window --focus north || yabai -m space --focus next || yabai -m space --focus first
+alt - l : yabai -m window --focus east || yabai -m display --focus prev || yabai -m display --focus last
+
+# Moving windows
+shift + alt - h : yabai -m window --swap west || ( yabai -m window --display next && yabai -m display --focus next ) || ( yabai -m window --display prev && yabai -m display --focus prev )
+shift + alt - j : yabai -m window --swap south || (yabai -m window --space prev && yabai -m space --focus prev) || (yabai -m window --space last && yabai -m space --focus last)
+shift + alt - k : yabai -m window --swap north || (yabai -m window --space next && yabai -m space --focus next) || (yabai -m window --space first && yabai -m space --focus first)
+shift + alt - l : yabai -m window --swap east || ( yabai -m window --display prev && yabai -m display --focus prev ) || ( yabai -m window --display next && yabai -m display --focus next )
+
+# Moving space
+cmd + alt - h : yabai -m space --display prev || yabai -m space --display last
+cmd + alt - l : yabai -m space --display next || yabai -m space --display first
+
+# Info Notification
+# cmd + ctrl - i ; info_mode
+# info_mode < n ; network_info
+# network_info < i : ifconfig | grep 'inet ' | grep -v '127.0.0.1' | awk '{print $2}' | terminal-notifier
+
+alt - m : ~/.config/yabai/scripts/pick_window_macos.sh
+alt - i : ~/.config/yabai/scripts/import_window_macos.sh
+alt - b : ~/.config/yabai/scripts/break_current_window.sh
